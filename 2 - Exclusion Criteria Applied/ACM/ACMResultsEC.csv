@@ -1,0 +1,935 @@
+Document Title,EC1,EC2,EC3,EC4,EC5
+Game Engine Wizardry for Programming Mischief,-,-,-,-,-
+Improving Bug Reproduction through Game Engine State Analysis,-,-,-,-,-
+Design of Artificial Intelligence Enabled Game Engine,-,-,-,-,-
+Towards Scalable Cloud Gaming Systems: Decoupling Physics from the Game Engine,-,-,-,-,-
+Towards a Resource-aware Middleware Support for Distributed Game Engine Design,-,-,-,-,-
+Recipes for Creating Digital Game Prototypes,-,-,-,-,X
+Neural Network Assisted Depth Map Packing for Compression Using Standard Hardware Video Codecs,-,-,-,-,-
+Animating Street View,-,-,-,-,X
+Designing for Digital Hybridisation of Theatre,X,-,-,-,-
+Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality,-,-,-,-,X
+FaceFolds: Meshed Radiance Manifolds for Efficient Volumetric Rendering of Dynamic Faces,X,-,-,-,-
+Poster: Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality,X,-,-,-,-
+Development of Real-Time QA/QC Tools for AEC in Unity,-,-,-,-,-
+Visual Scripting in Unity: A Comparative Analysis of Existing Frameworks,-,-,-,-,-
+Automated evaluation of game content display using deep&nbsp;learning,-,-,-,-,-
+Human-powered AI Gym: Lessons Learned as the Test and Evaluation Team for the DARPA SHADE Program: Human-powered AI Gym,X,-,-,-,-
+Pushing the Limits of Video Game Performance: A Performance Engineering Perspective,-,-,-,-,-
+Physically-based Lighting of 3D Point Clouds for Quality Assessment,-,-,-,-,-
+Introduction to Scripting in Blender3D: Computational Geometry Algorithms,X,-,-,-,-
+A Motion-Simulation Platform to Generate Synthetic Motion Data for Computer Vision Tasks,X,-,-,-,-
+Cine-AI: Generating Video Game Cutscenes in the Style of Human Directors,X,-,-,-,-
+Automated Generation of Map Pieces for Snappable Meshes,X,-,-,-,-
+Automated Simulation and Virtual Reality Coupling for Interactive Digital Twins,X,-,-,-,-
+Real Robot Dance Challenge: Exploring live and online dance challenge videos for robot movement,X,-,-,-,-
+PM4VR: A Scriptable Parametric Modeling Interface for Conceptual Architecture Design in VR,X,-,-,-,-
+WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users,X,-,-,-,-
+Unit Test Generation using Large Language Models for Unity Game Development,X,-,-,-,-
+Blender Scripting for Creative Coding Projects,X,-,-,-,-
+Performance and User Experience Studies of HILLES: Home-based Immersive Lower Limb Exergame System,X,-,-,-,-
+360° Animation Projects by Students with a Background in Traditional Stop-Motion Techniques,X,-,-,-,-
+The Future of Interaction with Mobile Game Characters,-,-,-,-,-
+Virtual Reality Dance Tracks from Skeletal Animations,-,-,-,-,X
+Effect-based Multi-viewer Caching for Cloud-native Rendering,X,-,-,-,-
+Evaluating Virtual Reality Simulations for Wheel Loader Inspection,X,-,-,-,-
+Evolving Assembly Code in an Adversarial Environment,X,-,-,-,-
+Advances in Real Time Audio Rendering - Part 1,X,-,-,-,-
+ScriptButler serves an Empirical Study of PuzzleScript: Analyzing the Expressive Power of a Game DSL through Source Code Analysis,X,-,-,-,-
+A Mixed Reality Approach for Innovative Pair Programming Education with a Conversational AI Virtual Avatar,X,-,-,-,-
+Efficient Visibility Approximation for Game AI using Neural Omnidirectional Distance Fields,X,-,-,-,-
+Codeseum: Learning Introductory Programming Concepts through Virtual Reality Puzzles,X,-,-,-,-
+Applying Larger N-Tuple Networks to EinStein Wurfelt Nicht!,X,-,-,-,-
+Charting the Uncharted with GUR: How AI Playtesting Can Supplement Expert Evaluation,X,-,-,-,-
+Based on Navmesh to implement AI intelligent pathfinding in three-dimensional maps in UE4,-,-,-,-,-
+Monocular 3D Pose Estimation of Very Small Airplane in the Air,X,-,-,-,-
+Because the Night - Immersive Theatre for Digital Audiences: Mapping the affordances of immersive theatre to digital interactions using game engines,X,-,-,-,-
+Interacting with Neural Radiance Fields in Immersive Virtual Reality,X,-,-,-,-
+Foveated Walking: Translational Ego-Movement and Foveated Rendering,X,-,-,-,-
+Integrating Stand-Alone New Media Technologies Such as Games and Virtual and Augmented Reality Software into Learning Management Systems: Integrating Stand-Alone Media Software into LMSs,-,-,-,-,-
+Computer Graphics and Extended Reality Courses for the Programmophobic,X,-,-,-,-
+Posture Parameters for Personality-Enhanced Virtual Audiences,X,-,-,-,-
+An Open-Source Framework Using WebRTC for Online Multiplayer Gaming,-,-,-,-,-
+LLMR: Real-time Prompting of Interactive Worlds using Large Language Models,X,-,-,-,-
+Advances in Real Time Audio Rendering - Part 2,X,-,-,-,-
+Bridging the Domain Gap between Synthetic and Real-World Data for Autonomous Driving,X,-,-,-,-
+Realistic 3D Modeling Method of Virtual Traditional Chinese Medicine,X,-,-,-,-
+Deep Learning-based Human Pose Estimation: A Survey,X,-,-,-,-
+A Virtual Reality Talking Avatar for Investigative Interviews of Maltreat Children,X,-,-,-,-
+Long-Term Person Re-identification with Dramatic Appearance Change: Algorithm and Benchmark,X,-,-,-,-
+DNN-based SLAM Tracking Error Online Estimation,X,-,-,-,-
+AKN_Regie: bridging digital and performing arts,X,-,-,-,-
+Artificial Intelligence for Web 3.0: A Comprehensive Survey,X,-,-,-,-
+Performance and Navigation Behavior of using Teleportation in VR First-Person Shooter Games,X,-,-,-,-
+Comparative Study on Intelligent Driving Path Planning Based on Self-Implemented CNN and Transfer Learning Models,X,-,-,-,-
+Experimenting with Artificial Intelligence: Programming Pathfinding Algorithms in C++ with Unreal Engine 5,-,-,X,-,-
+JaxMARL: Multi-Agent RL Environments and Algorithms in JAX,X,-,-,-,-
+NeARportation: A Remote Real-time Neural Rendering Framework,X,-,-,-,-
+Physics-Based Hand-Object-Interaction for Immersive Environments,X,-,-,-,-
+HoloBoard: A gamified balance board experience,X,-,-,-,-
+"Is Resistance Futile?: Early Career Game Developers, Generative AI, and Ethical Skepticism",X,-,-,-,-
+Building LLM-based AI Agents in Social Virtual Reality,X,-,-,-,-
+GTP Benchmarks for Gradual Typing Performance,X,-,-,-,-
+Joint UV Optimization and Texture Baking,X,-,-,-,-
+A Tale of Two Productions: A Christmas Carol On Stage and in VR,X,-,-,-,-
+More Than Killmonger Locs: A Style Guide for Black Hair (in Computer Graphics),X,-,-,-,-
+The Puzzle Forecast: Tutorial Analytics Predict Trial and Error,X,-,-,-,-
+OpenMPD: A Low-Level Presentation Engine for Multimodal Particle-Based Displays,X,-,-,-,-
+Investigating Applicability Heuristics of Answer Set Programming in Game Development: Use Cases and Empirical Study,X,-,-,-,-
+Data Issues in High-Definition Maps Furniture – A Survey,X,-,-,-,-
+Invisible Textures: Comparing Machine and Human Perception of Environment Texture for AR,X,-,-,-,-
+Static Analysis for Automated Identification of Valid Game Actions During Exploration,X,-,-,-,-
+Virtual Reality System for Inspection and Training in Wheel Loader,X,-,-,-,-
+BStick: Hand-held Haptic Controller for Virtual Reality Applications,X,-,-,-,-
+Interactive Gamification for New Experimental Music: Initial Findings,X,-,-,-,-
+Virtual Reality Solutions Employing Artificial Intelligence Methods: A Systematic Literature Review,X,-,-,-,-
+Representation Bias in Data: A Survey on Identification and Resolution Techniques,X,-,-,-,-
+"An Extensible, Data-Oriented Architecture for High-Performance, Many-World Simulation",X,-,-,-,-
+Using Augmented Reality to Assess the Role of Intuitive Physics in the Water-Level Task,X,-,-,-,-
+The Human-Centric Metaverse: A Survey,X,-,-,-,-
+Development in times of hype: How freelancers explore Generative AI?,X,-,-,-,-
+"Imagining a Future of Designing with AI: Dynamic Grounding, Constructive Negotiation, and Sustainable Motivation",X,-,-,-,-
+3DCrewCap: Applying 3D Volumetric video capture for XR helicopter rescue crew training and simulation.,X,-,-,-,-
+The Vulkan Computer Graphics API,-,-,X,-,-
+Caught in the Game: On the History and Evolution of Web Browser Gaming,-,-,-,-,-
+Prompt Wrangling: On Replication and Generalization in Large Language Models for PCG Levels,X,-,-,-,-
+Game&nbsp;State Learning via Game&nbsp;Scene&nbsp;Augmentation,X,-,-,-,-
+Virtual Dream Reliving: Exploring Generative AI in Immersive Environment for Dream Re-experiencing,X,-,-,-,-
+FoodChoices(Q): Exploring the Design of a Serious Game Proxy for Likert-style Survey Questionnaires,X,-,-,-,-
+Virtual Wheelchair Accessibility Evaluation Tool for Virtual Environments: Design and Preliminary Tests,X,-,-,-,-
+Modeling Reactive Game Agents Using the Cell-Devs Modeling Formalism,X,-,-,-,-
+Multimodality in VR: A Survey,X,-,-,-,-
+Code Impact Beyond Disciplinary Boundaries: Constructing a Multidisciplinary Dependency Graph and Analyzing Cross-Boundary Impact,X,-,-,-,-
+Comparison of Human-Drone Distancing Studies Across In-person and Online Modalities,X,-,-,-,-
+Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers,X,-,-,-,-
+Introducing Controlled Variability in Programming Assignments,X,-,-,-,-
+"Seminal Graphics Papers: Pushing the Boundaries, Volume 2",X,-,-,-,-
+Comparison of Spatial Visualization Techniques for Radiation in Augmented Reality,X,-,-,-,-
+Prevailing Technologies Augmented Reality Software with Hardware for E-Entertainment and E-Learning Purposes: A Survey,X,-,-,-,-
+EEG-Based Brain-Computer Interactions in Immersive Virtual and Augmented Reality: A Systematic Review,X,-,-,-,-
+"PAINT 2023: Proceedings of the 2nd ACM SIGPLAN International Workshop on Programming Abstractions and Interactive Notations, Tools, and Environments",X,-,-,-,-
+Exploring Performance in Complex Search-and-Retrieve Tasks: A Comparative Analysis of PPO and GAIL Robots,X,-,-,-,-
+Evaluation of User Interfaces for Three-Dimensional Locomotion in Virtual Reality,X,-,-,-,-
+Building a Real-Time System on GPUs for Simulation and Rendering of Realistic 3D Liquid in Video Games,-,-,-,-,-
+Swarm Robotics: A Survey from a Multi-Tasking Perspective,X,-,-,-,-
+Research on the Reconstruction of Ming Dynasty History Based on AIGC,X,-,-,-,-
+Altered States of Consciousness in Human-Computer Interaction: A Review,X,-,-,-,-
+Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark,X,-,-,-,-
+Enabling Social Robots to Perceive and Join Socially Interacting Groups using F-formation: A Comprehensive Overview,X,-,-,-,-
+Toward a VR-Native Live Programming Environment,X,-,-,-,-
+"A Review on Tools, Mechanics, Benefits, and Challenges of Gamified Software Testing",X,-,-,-,-
+A Review of Olfactory Display Designs for Virtual Reality Environments,X,-,-,-,-
+Picture This: AI-Assisted Image Generation as a Resource for Problem Construction in Creative Problem-Solving,X,-,-,-,-
+A Survey on Automated Driving System Testing: Landscapes and Trends,X,-,-,-,-
+"Programming '24: Companion Proceedings of the 8th International Conference on the Art, Science, and Engineering of Programming",X,-,-,-,-
+Enhancing educational resources through augmented reality-based assessment materials: a comprehensive study,X,-,-,-,-
+Leveraging Game Design Activities for Middle Grades AI Education in Rural Communities,X,-,-,-,-
+Partners Who Grow Together: Collaborative Machine Learning in Video Game AI Design,-,-,-,-,-
+Perceptions of Hybrid Lighting for Virtual Reality,X,-,-,-,-
+A Temporal Coherent Topology Optimization Approach for Assembly Planning of Bespoke Frame Structures,X,-,-,-,-
+Video Game Bad Smells: What They Are and How Developers Perceive Them,X,-,-,-,-
+"A Survey on Synchronous Augmented, Virtual, andMixed Reality Remote Collaboration Systems",X,-,-,-,-
+A Survey and Taxonomy of Latency Compensation Techniques for Network Computer Games,X,-,-,-,-
+elessDT: A Digital Twin Platform for Real-Time Evaluation of Wireless Software Applications,X,-,-,-,-
+Integrated Information System for 3D Interactive Reconstruction of an Archaeological Site,X,-,-,-,-
+Reading to write code: an experience report of a reverse engineering and modeling course,X,-,-,-,-
+Classifying edits to variability in source code,X,-,-,-,-
+Building Verisimilitude in VR With High-Fidelity Local Action Models: A Demonstration Supporting Road-Crossing Experiments,X,-,-,-,-
+AIMLSystems '22: Proceedings of the Second International Conference on AI-ML Systems,X,-,-,-,-
+Cardistry: Exploring a GPT Model Workflow as an Adapted Method of Gaminiscing,X,-,-,-,-
+"Record, Review, Edit, Apply: A Motion Data Pipeline for Virtual Reality Development &amp; Design",X,-,-,-,-
+ChatGPT GameJam: Unleashing the power of Large Language Models for Game Jams,X,-,-,-,-
+A Human-Annotated Video Dataset for Training and Evaluation of 360-Degree Video Summarization Methods,X,-,-,-,-
+XRSpotlight: Example-based Programming of XR Interactions using a Rule-based Approach,X,-,-,-,-
+A Large-Scale Synthetic Gait Dataset Towards in-the-Wild Simulation and Comparison Study,X,-,-,-,-
+"I-DO '24: Proceedings of the 2024 International Conference on Information Technology, Data Science, and Optimization",X,-,-,-,-
+"""\""I consider VR Table Tennis to be my secret weapon!\"": An Analysis of the VR Table Tennis Players' Experiences Outside the Lab""",X,-,-,-,-
+Development and Usability Evaluation of Transitional Cross-Reality Interfaces,X,-,-,-,-
+Comparison of Target Prediction in VR and MR using Inverse Reinforcement Learning,X,-,-,-,-
+Comparative Analysis of Facial Expression Recognition Systems for Evaluating Emotional States in Virtual Humans,X,-,-,-,-
+Enabling Non-Technical Domain Experts to Create Robot-Assisted Therapeutic Scenarios via Visual Programming,X,-,-,-,-
+MoonBase VR: Learning to program in a virtual reality game,X,-,-,-,-
+The Effects of Human-like Modifications to Heuristic Action Evaluation in Video Game Pathfinding,X,-,-,-,-
+Tibetan Jiu Chess Game Algorithm based on Expert Knowledge,X,-,-,-,-
+AdaptiX - A Transitional XR Framework for Development and Evaluation of Shared Control Applications in Assistive Robotics,X,-,-,-,-
+PumpVR: Rendering the Weight of Objects and Avatars through Liquid Mass Transfer in Virtual Reality,X,-,-,-,-
+"Bodylab: in virtuo sculpting, painting and performing of full-body avatars",X,-,-,-,-
+FovOptix: Human Vision-Compatible Video Encoding and Adaptive Streaming in VR Cloud Gaming,X,-,-,-,-
+Exploring Virtual Reality Game Development as an Interactive Art Medium: A Case Study with the Community Game Development Toolkit,-,-,-,-,X
+Virtual Rehearsal Suite: An Environment and Framework for Virtual Performance Practice,X,-,-,-,-
+EASE '24: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering,X,-,-,-,-
+Preserving Southern Thai Traditional Manora Dance Through Mobile Role-Playing Game Technology,X,-,-,-,-
+KUI '23: Proceedings of the 20th International Conference on Culture and Computer Science: Code and Materiality,X,-,-,-,-
+ICIGP '23: Proceedings of the 2023 6th International Conference on Image and Graphics Processing,X,-,-,-,-
+Accessible to Whom? Bringing Accessibility to Blocks,X,-,-,-,-
+"ASPLOS '24: Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2",X,-,-,-,-
+The Impact of Intelligent Pedagogical Agents’ Interventions on Student Behavior and Performance in Open-Ended Game Design Environments,-,-,-,-,X
+A Quality of Experience Evaluation of an Interactive Multisensory 2.5D Virtual Reality Art Exhibit,X,-,-,-,-
+Augmented Reality in Books: An Evaluation of Alan Turing Book,X,-,-,-,-
+GeoAI '23: Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery,X,-,-,-,-
+Evaluation of simplified 3D CAD data for conveying industrial assembly instructions via Augmented reality,X,-,-,-,-
+Promoting Eco-Friendly Behaviour through Virtual Reality - Implementation and Evaluation of Immersive Feedback Conditions of a Virtual CO2 Calculator,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Educator's Forum,X,-,-,-,-
+The Ink Splotch Effect: A Case Study on ChatGPT as a Co-Creative Game Designer,X,-,-,-,-
+Synthesizing Game Levels for Collaborative Gameplay in a Shared Virtual Environment,X,-,-,-,-
+Small Latency Variations Do Not Affect Player Performance in First-Person Shooters,X,-,-,-,-
+"Cohabitant: The Design, Implementation, and Evaluation of a Virtual Reality Application for Interfaith Learning and Empathy Building",X,-,-,-,-
+Creative Insights into Motion: Enhancing Human Activity Understanding with 3D Data Visualization and Annotation,X,-,-,-,-
+Identifying Hand-based Input Preference Based on Wearable EEG,X,-,-,-,-
+"Cascade: A Meta-language for Change, Cause and Effect",X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Labs,X,-,-,-,-
+"Small, personal videogames about mental health: An informal survey of Bitsy games",X,-,-,-,-
+Synthetic Data for Deep Learning in Computer Vision &amp; Medical Imaging: A Means to Reduce Data Bias,X,-,-,-,-
+EASE '23: Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Real-Time Live!,X,-,-,-,-
+AR-in-VR simulator: A toolbox for rapid augmented reality simulation and user research,X,-,-,-,-
+Promptable Game Models: Text-guided Game Simulation via Masked Diffusion Models,X,-,-,-,-
+"A-TEST 2022: Proceedings of the 13th International Workshop on Automating Test Case Design, Selection and Evaluation",X,-,-,-,-
+A Multi-Objective Optimization Framework for Redirecting Pointing Gestures in Remote-Local Mixed/Augmented Reality,X,-,-,-,-
+Physical activities gamification with smart board,X,-,-,-,-
+Real-Time Procedural Generation with GPU Work Graphs,X,-,-,-,-
+Performance Analysis of Saccades for Primary and Confirmatory Target Selection,X,-,-,-,-
+"PAINT 2022: Proceedings of the 1st ACM SIGPLAN International Workshop on Programming Abstractions and Interactive Notations, Tools, and Environments",X,-,-,-,-
+UnitEye: Introducing a User-Friendly Plugin to Democratize Eye Tracking Technology in Unity Environments,-,-,-,-,X
+"Grab It, While You Can: A VR Gesture Evaluation of a Co-Designed Traditional Narrative by Indigenous People",X,-,-,-,-
+Virtual Cinematography with Unreal Engine: Lean how Unreal Engine's virtual cinematography framework has given rise to new and advanced techniques in film and animation studios.,-,-,-,-,X
+A non-invasive middleware for games adaptation and motor rehabilitation controls,X,-,-,-,-
+Revolutionizing Learning: An Interactive VR Application for Solids of Revolution,X,-,-,-,-
+An Animator-Friendly Chain Simulator for In-Game Animations at Blizzard Entertainment,X,-,-,-,-
+GAS '24: Proceedings of the ACM/IEEE 8th International Workshop on Games and Software Engineering,-,-,-,-,X
+Wow! I Have Tiny Hands: Design And Evaluation Of Adaptive Virtual Hands For Small Object Selection Within Arms Length In Dense Virtual Environment,X,-,-,-,-
+A Proposal of OCR-based User Positioning Method in Indoor Navigation System Using Unity and Smartphone (INSUS),X,-,-,-,-
+Zenctuary VR: Simulating Nature in an Interactive Virtual Reality Application: Description of the design process of creating a garden in Virtual Reality with the aim of testing its restorative effects.,X,-,-,-,-
+GameDevDojo - An Educational Game for Teaching Game Development Concepts,X,-,-,-,-
+End-User Development for Human-Robot Interaction: Results and Trends in an Emerging Field,X,-,-,-,-
+Waiting to Play - Measuring Game Load Times and their Effects on Player Quality of Experience,-,-,-,-,X
+"Investigation into Recording, Replay and Simulation of Interactions in Virtual Reality",X,-,-,-,-
+Emerging Advanced Technologies for Game Engineering,-,-,-,-,-
+Authoring Games with Tile Rewrite Rule Behavior Trees,X,-,-,-,-
+Exploring the Dichotomy of Nature and Tech Through an Interactive Media Assignment,X,-,-,-,-
+Knowledge Net: Fostering Children’s Understanding of Knowledge Representations Through Creative Making and Embodied Interaction in a Museum Exhibit,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Posters,X,-,-,-,-
+Research on the design of third-person 3D action role-playing games,X,-,-,-,-
+Broomrocket: Open Source Text-to-3D Algorithm for 3D Object Placement,X,-,-,-,-
+Explaining Edits to Variability Annotations in Evolving Software Product Lines,X,-,-,-,-
+Facial Animation at Scale: Producing facial animation for 24 hours of narrative content in “Horizon: Forbidden West”,X,-,-,-,-
+Turaco: Complexity-Guided Data Sampling for Training Neural Surrogates of Programs,X,-,-,-,-
+Avatar Tracking Control with Featherstone's Algorithm and Newton-Euler Formulation for Inverse Dynamics,X,-,-,-,-
+Immersive gamification for education: No additional benefit gained from wearing a VR headset,X,-,-,-,-
+BlueVR: Design and Evaluation of a Virtual Reality Serious Game for Promoting Understanding towards People with Color Vision Deficiency,X,-,-,-,-
+"Visually Grounded Language Learning: A Review of Language Games, Datasets, Tasks, and Models",X,-,-,-,-
+"A Journey of a 1,000 Kernels Begins with a Single Step: A Retrospective of Deep Learning on GPUs",X,-,-,-,-
+RetroFit: Post-Facto Accessibility for Retro Games,X,-,-,-,-
+"VALERIE22 - A photorealistic, richly metadata annotated dataset of urban environments",X,-,-,-,-
+"Process, Roles, Tools, and Team: Understanding the Emerging Medium of Virtual Reality Theatre",X,-,-,-,-
+Design Pattern for Reusing Immutable Methods in Object-Oriented Languages,X,-,-,-,-
+Rapid Prototyping for XR,X,-,-,-,-
+Conflict Simulation for Shared Autonomy in Autonomous Driving,X,-,-,-,-
+A Pedagogical Virtual Reality Environment for Children in Early Childhood Education,X,-,-,-,-
+Kaki: Efficient Concurrent Update Synthesis for SDN,X,-,-,-,-
+sPellorama: An Immersive Prototyping Tool using Generative Panorama and Voice-to-Prompts,X,-,-,-,-
+The Superhero Pose: Enhancing Physical Performance in Exergames by Embodying Celebrity Avatars in Virtual Reality,X,-,-,-,-
+SVR '23: Proceedings of the 25th Symposium on Virtual and Augmented Reality,X,-,-,-,-
+"Using TLS, UAV and MR methodologies for 3D Modelling and Historical Recreation of Religious Heritage Monuments",X,-,-,-,-
+LumiMood: A Creativity Support Tool for Designing the Mood of a 3D Scene,X,-,-,-,-
+A Pilot Study of the User Experience in an Augmented Reality Mobile App to Support Teaching of Hematology,X,-,-,-,-
+Enhancing Indoor Thermal Comfort Education: A Virtual Reality Platform Introducing Fanger's Model,X,-,-,-,-
+Widget Detection-Based Testing for Industrial Mobile Games,X,-,-,-,-
+Enhancing Elderly Care through a 3D Interactive Simulation System in a Day Care Center,X,-,-,-,-
+Close but Not Too Close: Distance and Relevance in Designing Games for Reflection,X,-,-,-,-
+Recent Advancement in Education System Using AR Tools: A New Perspective,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Talks,X,-,-,-,-
+Teaching and Learning with Virtual Reality,X,-,-,-,-
+"RavenBuild: Context, Relevance, and Dependency Aware Build Outcome Prediction",X,-,-,-,-
+OUTFIT: Crowdsourced Data Feeding Noise Maps in Digital Twins,X,-,-,-,-
+Immersive Visualization Interface for Endoscopy Analytics and Debriefing,X,-,-,-,-
+SEEe Immersive Analytics System: Enhancing Data Analysis Experience within Complex Data Visualization Environments,X,-,-,-,-
+Transfer learning of cars behaviors from reality to simulation applications,X,-,-,-,-
+Direct Feedforward Techniques for the ViRgilites System,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Immersive Pavilion,X,-,-,-,-
+Towards Flexible Authoring and Personalization of Virtual Reality Applications for Training,X,-,-,-,-
+Research on the Implementation of Advertising Design Teaching Based on Unity3D Development Platform and Web3D Technology,-,-,-,-,X
+From Pixels to Play: Opportunities and Challenges of a Diverse and Democratized Games Industry,X,-,-,-,-
+Combined Safety and Cybersecurity Testing Methodology for Autonomous Driving Algorithms,X,-,-,-,-
+Exploring Stage Lighting Education in Metaverse,X,-,-,-,-
+A framework for neuromotor and neurofunctional rehabilitation using multi-agent systems,X,-,-,-,-
+Towards Generating Labeled Property Graphs for Comprehending C#-based Software Projects,X,-,-,-,-
+FaSE4Games 2024: Proceedings of the 1st ACM International Workshop on Foundations of Applied Software Engineering for Games,-,-,-,-,X
+Demystifying Mobile Extended Reality in Web Browsers: How Far Can We Go?,X,-,-,-,-
+Demo: NetVision: Efficient Visualization Front-End for Packet-level Discrete-Event Network Simulation,X,-,-,-,-
+Memory Management on Mobile Devices,X,-,-,-,-
+Pedagogical strategies for teaching Virtual Production pipelines,X,-,-,-,-
+Generative Agents: Interactive Simulacra of Human Behavior,X,-,-,-,-
+Amplify AR HUD User-Experience with Real-World Sunlight Simulation in Virtual Scene,X,-,-,-,-
+SBGames '23: Proceedings of the 22nd Brazilian Symposium on Games and Digital Entertainment,X,-,-,-,-
+E4UnityIntegration-MIT: An Open-Source Unity Plug-in for Collecting Physiological Data using Empatica E4 during Gameplay,-,-,-,-,-
+Databases Without Databases: Projects for Including Database Concepts in Interdisciplinary Curricula with LINQ,X,-,-,-,-
+SMPL: A Skinned Multi-Person Linear Model,X,-,-,-,-
+Platforms and Tools for SIA Research and Development,X,-,-,-,-
+SynPeDS: A Synthetic Dataset for Pedestrian Detection in&nbsp;Urban&nbsp;Traffic&nbsp;Scenes,X,-,-,-,-
+MobileGravity: Mobile Simulation of a High Range of Weight in Virtual Reality,X,-,-,-,-
+Introducing Virtual Reality to Undergraduate Students: A Hybrid Approach,X,-,-,-,-
+Augmented Reality Visualization of Menu Items using Image Reconstruction,X,-,-,-,-
+RuleCraft: an End-User Development Hub for Education,X,-,-,-,-
+Language Urban Odyssey: A Serious Game for Enhancing Second Language Acquisition through Large Language Models,X,-,-,-,-
+Deinonychus and The Cow – Enhancing Museum Exhibitions Through the Use of Mixed Reality,X,-,-,-,-
+Development and Application of Virtual Simulation Teaching System for Mechanical Disassembly Based on Unity3D,X,-,-,-,-
+SVR '22: Proceedings of the 24th Symposium on Virtual and Augmented Reality,X,-,-,-,-
+The Curation Tree: A Lightweight Behavior Tree Framework for Implementing Puzzle and Narrative Games,X,-,-,-,-
+User Study-based Models of Game Player Quality of Experience with Frame Display Time Variation,X,-,-,-,-
+Xperisight: Parallelizing Extended Reality Studies Without Losing Control,X,-,-,-,-
+Boosting Motivation in Sports with Data-Driven Visualizations in VR,X,-,-,-,-
+Towards automated video game testing: still a long way to go,X,-,-,-,-
+NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds,X,-,-,-,-
+Advancing Dynamic Hand Gesture Recognition in Driving Scenarios with Synthetic Data,X,-,-,-,-
+VAL: Interactive Task Learning with GPT Dialog Parsing,X,-,-,-,-
+Advancing STEM Education in Primary Schools with an Integrated System of 3D Games,X,-,-,-,-
+Combination of Augmented Reality Based Brain-Computer Interface and EyeTracking for Control of a Multi-Robot System,X,-,-,-,-
+Case study of 3D Interactive Design of Nanjing Tongji Gate Wall,X,-,-,-,-
+Sampling the Glitch Spectrum: Exploring the Architecture of Digital Media,X,-,-,-,-
+Integrating Mid-Air Gestures into an Extended Reality Application: A Methodological Approach,X,-,-,-,-
+Re-architecting the virtual human toolkit: towards an interoperable platform for embodied conversational agent research and development,X,-,-,-,-
+Efficient Position-Based Deformable Colon Modeling for Endoscopic Procedures Simulation,X,-,-,-,-
+Toward Scalable and Controllable AR Experimentation,X,-,-,-,-
+Virtual MultiView Panels for Distant Object Interaction and Navigation in Virtual Reality,X,-,-,-,-
+DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft,X,-,-,-,-
+SIGGRAPH '24: ACM SIGGRAPH 2024 Emerging Technologies,X,-,-,-,-
+A Virtual Environment for Collaborative Inspection in Additive Manufacturing,X,-,-,-,-
+EvolvingBehavior: Towards Co-Creative Evolution of Behavior Trees for Game NPCs,-,-,-,-,-
+Perceptual Visibility Model for Temporal Contrast Changes in Periphery,X,-,-,-,-
+Intrinsic Image Decomposition via Ordinal Shading,X,-,-,-,-
+Learning to Detect Fallen People in Virtual Worlds,X,-,-,-,-
+Youth Homelessness: Researching VR as a Tool for Empathy,X,-,-,-,-
+Towards Developing a Virtual Guitar Instructor through Biometrics Informed Human-Computer Interaction,X,-,-,-,-
+Fostering Collaboration and Advancing Research in Software Engineering and Game Development for Serious Contexts,X,-,-,-,-
+Flexible Photorealistic VR Training System for Electrical Operators,X,-,-,-,-
+Variability-Aware Differencing with DiffDetective,X,-,-,-,-
+Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution,X,-,-,-,-
+CharacterMeet: Supporting Creative Writers' Entire Story Character Construction Processes Through Conversation with LLM-Powered Chatbot Avatars,X,-,-,-,-
+OperAR: Using an Augmented Reality Agent to Enhance Children's Interactive Intangible Cultural Heritage Experience of the Peking Opera,X,-,-,-,-
+Mimic: In-Situ Recording and Re-Use of Demonstrations to Support Robot Teleoperation,X,-,-,-,-
+The V-Lab VR Educational Application Framework: A Beacon Application of the XR2Learn Project,X,-,-,-,-
+ZERO: A Generic Open-Source Extended Reality Eye-Tracking Controller Interface for Scientists,X,-,-,-,-
+The Toxic Cost of Cheap Usernames: Re-Applying Friedman and Resnick's Framework in Competitive Video Game Networks,X,-,-,-,-
+Accelerating Saccadic Response through Spatial and Temporal Cross-Modal Misalignments,X,-,-,-,-
+Influence of Simulation and Interactivity on Human Perceptions of a Robot During Navigation Tasks,X,-,-,-,-
+NeighboAR: Efficient Object Retrieval using Proximity- and Gaze-based Object Grouping with an AR System,X,-,-,-,-
+Financial DreamScape: Puzzle Narrative Games for Financial Education,X,-,-,-,-
+Jamming with Culture - Piloting Cultural Game Jam with Youth,X,-,-,-,-
+Exploring the Effects of Self-correction Behavior of an Intelligent Virtual Character during a Jigsaw Puzzle Co-solving Task,X,-,-,-,-
+RemoteLab: A VR Remote Study Toolkit,X,-,-,-,-
+Efforts Towards a Digital Twin-based Testbed for Public Safety,X,-,-,-,-
+Less Is More: Learning from Synthetic Data with Fine-Grained Attributes for Person Re-Identification,X,-,-,-,-
+Space-adaptive Artwork Placement Based on Content Similarities for Curating Thematic Spaces in a Virtual Museum,X,-,-,-,-
+Design and Implementation of a Game Session Plugin based on Unreal Engine,-,-,-,-,X
+A Comparative Study of Two Marker-Based Mobile Augmented Reality Applications for Solving 3D Anamorphic Illusion Puzzles,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Educator's Forum,X,-,-,-,-
+Enhancing Museum Experience with VR by Situating 3D Collections in Contex,X,-,-,-,-
+Quest Driven Spatial Songs: Exploring how narrative structures of Quests in Games can be mapped onto songs.,X,-,-,-,-
+Down the Rabbit Hole: Experiencing Alice in Wonderland Syndrome through Virtual Reality,X,-,-,-,-
+XR Immersion for teaching and learning with precise visualization in user perspective,X,-,-,-,-
+"Collaborating with my Doppelg\""anger: The Effects of Self-similar Appearance and Voice of a Virtual Character during a Jigsaw Puzzle Co-solving Task",X,-,-,-,-
+"Demonstrating HUGO, a High-Resolution Tactile Emulator for Complex Surfaces",X,-,-,-,-
+Location-Aware Adaptation of Augmented Reality Narratives,X,-,-,-,-
+SIGGRAPH '23: ACM SIGGRAPH 2023 Educator's Forum,X,-,-,-,-
+Designing Hand-held Controller-based Handshake Interaction in Social VR and Metaverse,X,-,-,-,-
+Effects of Human and Animal Partner-Avatars on Profile Memory in Virtual Reality,X,-,-,-,-
+Ecosystems of indie porn game development: co-dependent partial organisations,X,-,-,-,-
+DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory,X,-,-,-,-
+Perceiving Absolute Distance in Augmented Reality Displays with Realistic and Non-realistic Shadows,X,-,-,-,-
+Measurement of cloud-based game streaming system response to competing TCP cubic or TCP BBR flows,X,-,-,-,-
+CollageVis: Rapid Previsualization Tool for Indie Filmmaking using Video Collages,X,-,-,-,-
+BioLumin: An Immersive Mixed Reality Experience for Interactive Microscopic Visualization and Biomedical Research Annotation,X,-,-,-,-
+RE Methods for Virtual Reality Software Product Development: A Mapping Study,X,-,-,-,-
+Game accessibility: Adaptation of a digital escape room game to improve spatial cognitive skills on blind people,X,-,-,-,-
+A Novel Procedural Content Generation Algorithm for Tower Defense Games,X,-,-,-,-
+Exploring the Acceptability of HELP-XR among Instructors: A Tool for XR Pedagogical Content Creation,X,-,-,-,-
+Poster: Virtual Reality Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors,X,-,-,-,-
+Interdisciplinary Project-Driven Learning in Game Design and Development,X,-,-,-,-
+The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models,X,-,-,-,-
+Metaverse as a Service: Megascale Social 3D on the Cloud,X,-,-,-,-
+"ImmerCom '23: Proceedings of the 1st ACM Workshop on Mobile Immersive Computing, Networking, and Systems",X,-,-,-,-
+Eye Strokes: An Eye-gaze Drawing System for Mandarin Characters,X,-,-,-,-
+System Design for an Integrated Lifelong Reinforcement Learning Agent for Real-Time Strategy Games,X,-,-,-,-
+Gamified Virtual Reality for Computational Thinking,X,-,-,-,-
+Speculative Game Design of Asymmetric Cooperative Games to Study Human-Machine Teaming,X,-,-,-,-
+End-user Game Development Environments for Educators: Analyzing Platforms,X,-,-,-,-
+TAT VR: a Virtual Reality Simulator for Military Shooting Training,X,-,-,-,-
+"GAS '22: Proceedings of the 6th International ICSE Workshop on Games and Software Engineering: Engineering Fun, Inspiration, and Motivation",X,-,-,-,-
+Procedural Rhythm Game Generation in Virtual Reality,X,-,-,-,-
+InsectVR: Simulating Crawling Insects in Virtual Reality for Biology Edutainment,X,-,-,-,-
+On Efficient Reinforcement Learning for Full-length Game of StarCraft II,X,-,-,-,-
+Enhancing Non-Player Characters in Unity 3D using GPT-3.5,-,-,-,-,-
+SmartFunction: An Immersive Vr System To Assess Attention Using Embodied Cognition,X,-,-,-,-
+"CUBE: Conversational User-Interface-Based Embodiment: Developing a Digital Humans Embodiment for Conversational Agents: Design, Implementation, and Integration Challenges",X,-,-,-,-
+Unified Co-Simulation Framework for Autonomous UAVs,X,-,-,-,-
+VR-Based Teleoperation of Autonomous Vehicles for Operation Recovery,X,-,-,-,-
+Illusory: A Non-Euclidian Concept Adoption in a 3D Puzzle Game,X,-,-,-,-
+Mixed Reality Smart Glasses for Local Cultural Learning: A Case Representation of Kavalan Traditional Culture,X,-,-,-,-
+Heat Simulation on Meshless Crafted-Made Shapes,X,-,-,-,-
+LITAR: Visually Coherent Lighting for Mobile Augmented Reality,X,-,-,-,-
+SIGGRAPH Courses '24: ACM SIGGRAPH 2024 Courses,X,-,-,-,-
+Influence of hand representation on a grasping task in augmented reality,X,-,-,-,-
+SLE 2023: Proceedings of the 16th ACM SIGPLAN International Conference on Software Language Engineering,X,-,-,-,-
+SIGGRAPH '23: ACM SIGGRAPH 2023 Posters,X,-,-,-,-
+Using Augmented Reality Book as a Learning Material for Kindergarten Pupils in the Field of Science,X,-,-,-,-
+DianTea:Designing and Evaluating an Immersive Virtual Reality Game to Enhance Youth Tea Culture Learning,X,-,-,-,-
+Design and Think-Aloud Study of an Immersive Interface for Training Health Professionals in Clinical Skills,X,-,-,-,-
+Research on the application of AR technology in reconstructing the digital presentation of urban identity,X,-,-,-,-
+Utilizing Virtual Reality in Higher Education Marketing through Open-Source and Open-Educational Software,X,-,-,-,-
+Extracting Threat Intelligence From Cheat Binaries For Anti-Cheating,X,-,-,-,-
+Keep Your Eyes on the Target: Enhancing Immersion and Usability by Designing Natural Object Throwing with Gaze-based Targeting,X,-,-,-,-
+SIGGRAPH '23: ACM SIGGRAPH 2023 Talks,X,-,-,-,-
+Virtual Reality Point Cloud Annotation,X,-,-,-,-
+Evolving Potential Fields for Rules of the Road Compliant Ship Driving,X,-,-,-,-
+Game Development as Project-Based Learning: Synthesizing Postmortems of Student-Created Mobile Games,X,-,-,-,-
+ICVARS '24: Proceedings of the 2024 8th International Conference on Virtual and Augmented Reality Simulations,X,-,-,-,-
+Scaffolding CS1 Courses with a Large Language Model-Powered Intelligent Tutoring System,X,-,-,-,-
+LifeChair-X Posture Based Gaming using an IoT Cushion and Serious Game for Workplace Wellness,X,-,-,-,-
+ZoAM GameBot: a Journey to the Lost Computational World in the Amazonia,X,-,-,-,-
+GlassBoARd: A Gaze-Enabled AR Interface for Collaborative Work,X,-,-,-,-
+Comparative Effectiveness of an Omnidirectional Treadmill versus Natural Walking for Navigating in Virtual Environments,X,-,-,-,-
+Googly Eyes: Displaying User's Eyes on a Head-Mounted Display for Improved Nonverbal Communication,X,-,-,-,-
+LapGym: an open source framework for reinforcement learning in robot-assisted laparoscopic surgery,X,-,-,-,-
+ArticuMotion: Towards Assessing Motor Speech Disorders via Gamification,X,-,-,-,-
+Interactive Evolutionary Computation for Strategy Discovery in Multi-Phase Operations,X,-,-,-,-
+Inter-Pupillary Distance Mismatch Does Not Affect Distance Perception in Action Space,X,-,-,-,-
+ARFit: Pose-based Exercise Feedback with Mobile AR,X,-,-,-,-
+Immersive visualization for ecosystem services analysis,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Courses,X,-,-,-,-
+When Realities Interweave: Exploring the Design Space of Immersive Tangible XR,X,-,-,-,-
+Immerse Yourself in a Fight Against your Fears: A Vision for using Virtual Reality Serious Games and Physiology Assessment in Phobia Treatment,X,-,-,-,-
+SoundVizVR: Sound Indicators for Accessible Sounds in Virtual Reality for Deaf or Hard-of-Hearing Users,X,-,-,-,-
+Palette-PrintAR: augmented reality design and simulation for multicolor resin 3D printing,X,-,-,-,-
+Virtual Triplets: Human-Agent Shared Control of Virtual Avatars,X,-,-,-,-
+DungeonMaker: Embedding Tangible Creation and Destruction in Hybrid Board Games through Personal Fabrication Technology,X,-,-,-,-
+"Dynamic Theater: Location-Based Immersive Dance Theater, Investigating User Guidance and Experience",X,-,-,-,-
+Towards More Accurate Help: Informing Teachers how to Support NDD Children by Serious Games and Eye Tracking Technologies,X,-,-,-,-
+QuickCSGModeling: Quick CSG Operations Based on Fusing Signed Distance Fields for VR Modeling,X,-,-,-,-
+Scalable MDC-Based Volumetric Video Delivery for Real-Time One-to-Many WebRTC Conferencing,X,-,-,-,-
+Creative NFT-Copyrighted AR Face Mask Authoring Using Unity3D Editor,X,-,-,-,-
+ExtEdge: Haptic Augmentation of Visual Experiences of a Smartphone by Electro-Tactile Sensation Through the Edges,X,-,-,-,-
+"Gamify 2022: Proceedings of the 1st International Workshop on Gamification of Software Development, Verification, and Validation",X,-,-,-,-
+StoryWorld: Procedural Quest Generation Rooted in Variety &amp; Believability,X,-,-,-,-
+FlavoMetrics: Towards a Digital Tool to Understand and Tune Living Aesthetics of Flavobacteria,X,-,-,-,-
+Evaluating the benefits of software product lines in game software engineering,X,-,-,-,-
+Study on the Recent Development of Metaverse Application in College Teaching,X,-,-,-,-
+A Teleoperation Framework for Robots Utilizing Control Barrier Functions in Virtual Reality,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Technical Communications,X,-,-,-,-
+DirActor: Creating Interaction Illustrations by Oneself through Directing and Acting Simultaneously in VR,X,-,-,-,-
+BlockList: A Game to Teach Basic Linked Lists Operations To Novice Programmers,X,-,-,-,-
+AmplifiedCoaster: Virtual Roller Coaster Experience using Motorized Ramps and Personal Mobility Vehicle,X,-,-,-,-
+A Mixed Reality Platform for Collaborative Technical Assembly Training,X,-,-,-,-
+Securing Cross Reality: Unraveling the Risks of 3D Object Disguise on Head Mount Display,X,-,-,-,-
+The View from MARS: Empowering Game Stream Viewers with Metadata Augmented Real-time Streaming,X,-,-,-,-
+Using Gaze Transition Entropy to Detect Classroom Discourse in a Virtual Reality Classroom,X,-,-,-,-
+Comparing the Agency of Hybrid Meeting Remote Users in 2D and 3D Interfaces of the Hybridge System,X,-,-,-,-
+Cell Space: Augmented Awareness of Intercorporeality,X,-,-,-,-
+Exploring the impact of VR and embodiment on environmental literacy,X,-,-,-,-
+Bug localization in game software engineering: evolving simulations to locate bugs in software models of video games,X,-,-,-,-
+pARam: Leveraging Parametric Design in Extended Reality to Support the Personalization of Artifacts for Personal Fabrication,X,-,-,-,-
+Generative Personas That Behave and Experience Like Humans,X,-,-,-,-
+"Join Me Here if You Will: Investigating Embodiment and Politeness Behaviors When Joining Small Groups of Humans, Robots, and Virtual Characters",X,-,-,-,-
+It’s Me: VR-based Journaling for Improved Cognitive Self-Regulation,X,-,-,-,-
+Carbon Rebellion: Empowerment using Data-Driven Narratives,X,-,-,-,-
+CoEditAR: A Framework for Collaborative Interaction in WebXR-enabled Spatial Computing,X,-,-,-,-
+Interactive Latent Variable Evolution for the Generation of Minecraft Structures,X,-,-,-,-
+Promotypes - Prototyping Games for a University Game Production Pipeline,X,-,-,-,-
+TactTongue: Prototyping ElectroTactile Stimulations on the Tongue,X,-,-,-,-
+Demonstrating Adaptive Many-to-Many Immersive Teleconferencing for Volumetric Video,X,-,-,-,-
+Haptic Interaction Module for VR Fishing Leisure Activity,X,-,-,-,-
+Closing the Loop: The Effects of Biofeedback Awareness on Physiological Stress Response Using Electrodermal Activity in Virtual Reality,X,-,-,-,-
+PredART: Towards Automatic Oracle Prediction of Object Placements in Augmented Reality Testing,X,-,-,-,-
+"""\""It patted my arm\"": Investigating Social Touch from a Virtual Agent""",X,-,-,-,-
+Mobile Robots Meet Augmented Reality Technologies: Transforming Human-Robot Interaction in Industry 4.0 Scenarios,X,-,-,-,-
+VRhook: A Data Collection Tool for VR Motion Sickness Research,X,-,-,-,-
+The Many Faces of Monetisation: Understanding the Diversity and Extremity of Player Spending in Mobile Games via Massive-scale Transactional Analysis,X,-,-,-,-
+Deimos: A Grammar of Dynamic Embodied Immersive Visualisation Morphs and Transitions,X,-,-,-,-
+Exploring Optimal eHMI Display Location for Various Vehicle Types: A VR User Study,X,-,-,-,-
+Towards a History of Finnish and Swedish Game Industry Platforms,X,-,-,-,-
+Virtual Reality Environment for Surgical Skills Practice for Medical Students,X,-,-,-,-
+Lullaland: A Multisensory Virtual Reality Experience to Reduce Stress,X,-,-,-,-
+Case Study: End users in recovery from substance use disorders as designers and developers of digital games with therapeutic potential,X,-,-,-,-
+"HUGO, a High-Resolution Tactile Emulator for Complex Surfaces",X,-,-,-,-
+Surveyor: Facilitating Discovery Within Video Games for Blind and Low Vision Players,X,-,-,-,-
+Choreographing in VR: Introducing ‘Substitute Performers’ as Informants in the Choreographic Process,X,-,-,-,-
+Gamification of cybersecurity training,X,-,-,-,-
+One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in Highly Automated Vehicles,X,-,-,-,-
+UmeTrack: Unified multi-view end-to-end hand tracking for VR,X,-,-,-,-
+Audiodice: an open hardware design of a distributed dodecahedron loudspeaker orchestra,X,-,-,-,-
+"Leveraging Virtual Reality to Enhance Diversity, Equity and Inclusion training at Google",X,-,-,-,-
+Evolutionary Tabletop Game Design: A Case Study in the Risk Game,X,-,-,-,-
+Plane Segmentation in Outdoor Imagery: Unsupervised Training Using Synthetic Data,X,-,-,-,-
+Monitoring Muscle Engagement via Electrical Impedance Tomography for Unsupervised Physical Rehabilitation,X,-,-,-,-
+VR Job Interview Using a Gender-Swapped Avatar,X,-,-,-,-
+Outside In: Creating Digital Nature Tailored To The Needs of Intensive Care Unit Patients,X,-,-,-,-
+Bimanual Interactions for Surfacing Curve Networks in VR,X,-,-,-,-
+Combining Functional and Automata Synthesis to Discover Causal Reactive Programs,X,-,-,-,-
+What makes a game high-rated? towards factors of video game success,X,-,-,-,-
+Collision avoidance behaviours of young adult walkers: Influence of a virtual pedestrian's age-related appearance and gait profile,X,-,-,-,-
+Generating Emotionally Expressive Look-At Animation,X,-,-,-,-
+TiZero: Mastering Multi-Agent Football with Curriculum Learning and Self-Play,X,-,-,-,-
+Designing for Human Operations on the Moon: Challenges and Opportunities of Navigational HUD Interfaces,X,-,-,-,-
+"Matching auditory and visual room size, distance, and source orientation in virtual reality",X,-,-,-,-
+The effect of culture in educational games for school students,X,-,-,-,-
+Circulation in Virtual Media Architecture: Exploring the Spatial Logic of a Continuous Circulation Space,X,-,-,-,-
+Augmented Reality in Service of Human Operations on the Moon: Insights from a Virtual Testbed,X,-,-,-,-
+AVI '24: Proceedings of the 2024 International Conference on Advanced Visual Interfaces,X,-,-,-,-
+Enhancing VR Gaming Experience using Computational Attention Models and Eye-Tracking,X,-,-,-,-
+Collaborative Scenario Builder: A VR Co-Design Tool for Medical First Responders,X,-,-,-,-
+Real-Time Ray-Tracing with Vulkan for the Impatient,X,-,-,-,-
+Influence of Multi-Modal Interactive Formats on Subjective Audio Quality and Exploration Behavior,X,-,-,-,-
+A3Cplus: Efficient Anatomically Accurate Avatar Creation,X,-,-,-,-
+A Comprehensive User Study on Augmented Reality-Based Data Collection Interfaces for Robot Learning,X,-,-,-,-
+SAP '24: ACM Symposium on Applied Perception 2024,X,-,-,-,-
+Digital Cultural Items in Space: The Impact of Contextual Information on Presenting Digital Cultural Items,X,-,-,-,-
+Drawing Connections: Designing Situated Links for Immersive Maps,X,-,-,-,-
+Towards Situation Awareness and Attention Guidance in a Multiplayer Environment using Augmented Reality and Carcassonne,X,-,-,-,-
+ICVARS '23: Proceedings of the 2023 7th International Conference on Virtual and Augmented Reality Simulations,X,-,-,-,-
+Web3D '23: Proceedings of the 28th International ACM Conference on 3D Web Technology,X,-,-,-,-
+Sleep No Mosquitoes: Compensating Distance-Aware Compression in a VR Audio Game,X,-,-,-,-
+CamTroller: An Auxiliary Tool for Controlling Your Avatar in PC Games Using Natural Motion Mapping,X,-,-,-,-
+Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach,X,-,-,-,-
+Web3D '22: Proceedings of the 27th International Conference on 3D Web Technology,X,-,-,-,-
+Development of an Immersive Visualisation System for the 3D Learning of Complex Rock Structures,X,-,-,-,-
+Development and Application of a Simplified Bite Force Measuring Device,X,-,-,-,-
+Measuring Variations in Workload during Human-Robot Collaboration through Automated After-Action Reviews,X,-,-,-,-
+AG3: Automated Game GUI Text Glitch Detection Based on Computer Vision,X,-,-,-,-
+FDG '24: Proceedings of the 19th International Conference on the Foundations of Digital Games,X,-,-,-,-
+Frapp\'e: An Ultra Lightweight Mobile UI Framework for Rapid API-based Prototyping and Environmental Deployment,X,-,-,-,-
+Embodied Telepresent Connection (ETC): Exploring Virtual Social Touch Through Pseudohaptics,X,-,-,-,-
+"Effect of Physical and Virtual Operations Sequences on Students’ Knowledge Acquisition, Learning Motivation, Engagement, and Cognitive Load in a C-STEAM Project",X,-,-,-,-
+De-anonymizing VR Avatars using Non-VR Motion Side-channels,X,-,-,-,-
+Virtual Therapy Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors,X,-,-,-,-
+MoodGems: Designing for the Well-being of Children with ADHD and their Families at Home,X,-,-,-,-
+Portobello: Extending Driving Simulation from the Lab to the Road,X,-,-,-,-
+Sphere Saber: A Virtual Reality Exergame to Study Age-Related Differences in Selective Visual Attention and Information Processing,X,-,-,-,-
+Use of XR technologies for fostering visitors' experience and inclusion at industrial museums,X,-,-,-,-
+Tutorial Level Design Guidelines for 2D Fighting Games,X,-,-,-,-
+Practical Inference of Nullability Types,X,-,-,-,-
+AMD Journee: A Patient Co-designed VR Experience to Raise Awareness Towards the Impact of AMD on Social Interactions,X,-,-,-,-
+Novel Paradigms of Human-Fashion Interaction,X,-,-,-,-
+Garnish into Thin Air,X,-,-,-,-
+Towards Pedagogical Conversational Agents as Creativity Drivers in Virtual Worlds,X,-,-,-,-
+ArmDeformation: Inducing the Sensation of Arm Deformation in Virtual Reality Using Skin-Stretching,X,-,-,-,-
+Impact of BCI-Informed Visual Effect Adaptation in a Walking Simulator,X,-,-,-,-
+Socially Interactive Agent Dialogue,X,-,-,-,-
+Hack the Room: Exploring the potential of an augmented reality game for teaching cyber security,X,-,-,-,-
+Personalized Motion Analysis with Consideration of Body Segment Shapes,X,-,-,-,-
+Cross-cultural Online Game Jams: Fostering cultural competencies through jams in game education setting,X,-,-,-,-
+A Virtual Environment for Emergency Ultrasound Training during Cardiopulmonary Resuscitation,X,-,-,-,-
+Teleoperation of a Fast Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface,X,-,-,-,-
+Training-Free Neural Matte Extraction for Visual Effects,X,-,-,-,-
+Development and application of electric power subject training system based on virtual reality technology,X,-,-,-,-
+Human perception of swarm fragmentation,X,-,-,-,-
+Bodyweight Exercise based Exergame to Induce High Intensity Interval Training,X,-,-,-,-
+Mixed Reality Equipment Training: A Pilot Study Exploring the Potential Use of Mixed Reality to Train Users on Technical Equipment,X,-,-,-,-
+Towards Edge-Cloud Architectures for Personal Protective Equipment Detection,X,-,-,-,-
+MEDUSA - A View-Tracking Pong Game,X,-,-,-,-
+“Presence” and “Empathy” — Design and Implementation Emotional Interactive Storytelling for Virtual Character,X,-,-,-,-
+Mixed Reality-based Exergames for Upper Limb Robotic Rehabilitation,X,-,-,-,-
+Visual Rehabilitation for Learning Disorders in Virtual Reality: Visual Rehabilitation for Learning Disorder in VR,X,-,-,-,-
+Exploring Effective Real-Time Ergonomic Guidance Methods for Immersive Virtual Reality Workspace,X,-,-,-,-
+Building Virtual User Interfaces of Household Appliances for Marketing,X,-,-,-,-
+FDG '23: Proceedings of the 18th International Conference on the Foundations of Digital Games,X,-,-,-,-
+Design and Development Approach for an Interactive Virtual Museum with Haptic Glove Technology,X,-,-,-,-
+"MIG '23: Proceedings of the 16th ACM SIGGRAPH Conference on Motion, Interaction and Games",X,-,-,-,-
+Motion Control of Interactive Robotic Arms Based on Mixed Reality Development,X,-,-,-,-
+The Effects of Avatar and Environment on Thermal Perception and Skin Temperature in Virtual Reality,X,-,-,-,-
+Learning Spatial Reasoning in Virtual vs. Physical Games with Robots,X,-,-,-,-
+Temple Relief Storytelling using Augmented Reality for Enhanced Engagement with Cultural Heritage Sites,X,-,-,-,-
+Virtual Big Heads in Extended Reality: Estimation of Ideal Head Scales and Perceptual Thresholds for Comfort and Facial Cues,X,-,-,-,-
+"""\""Hello I am here\"": Proximal Nonverbal Cues Role in Initiating Social Interactions in VR""",X,-,-,-,-
+Amaze3D: Making 3D Worlds Accessible to Blind Gamers,-,-,-,-,X
+Experiences with Summer Camp Communication via Discord,X,-,-,-,-
+Navigating the Virtual Gaze: Social Anxiety's Role in VR Proxemics,X,-,-,-,-
+An agent-based approach to automated game testing: an experience report,X,-,-,-,-
+Exploring Mid-air Gestural Interfaces for Children with ADHD,X,-,-,-,-
+Elevating Stress Levels - Exploring Multimodality for Stress Induction in VR,X,-,-,-,-
+Interaction in Social Space,X,-,-,-,-
+Prototype of a wearable force-feedback mechanism for free-range immersive experience,X,-,-,-,-
+TONIC: A teamwork simulator and digital twin for organizational innovation challenges,X,-,-,-,-
+Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment,X,-,-,-,-
+HaptiX: Vibrotactile Haptic Feedback for Communication of 3D Directional Cues,X,-,-,-,-
+Customized toolbox in VR Design,X,-,-,-,-
+An AR Game for Primary Learners to Safeguard Intangible Cultural Heritage of the Ovahimba Tribe,X,-,-,-,-
+What’s my future: a Multisensory and Multimodal Digital Human Agent Interactive Experience,X,-,-,-,-
+Following the Master’s Hands: Capturing Piano Performances for Mixed Reality Piano Learning Applications,X,-,-,-,-
+Semantic-aware Consistency Network for Cloth-changing Person Re-Identification,X,-,-,-,-
+An Exploratory Study on Gender Dysphoria &amp; Character Customisation,X,-,-,-,-
+"The Handbook on Socially Interactive Agents: 20 years of Research on Embodied Conversational Agents, Intelligent Virtual Agents, and Social Robotics Volume 2: Interactivity, Platforms, Application",X,-,-,-,-
+Gamification-based UML learning environment in virtual reality,X,-,-,-,-
+User-Driven Adaptation: Tailoring Autonomous Driving Systems with Dynamic Preferences,X,-,-,-,-
+Case study on technological acceptance of autonomous vehicles and the influence of situational awareness: Lane detection in winter conditions,X,-,-,-,-
+“I Can Feel It in My Hand”: Exploring Design Opportunities for Tangible Interfaces to Manipulate Artefacts in AR,X,-,-,-,-
+Quadropong - Conditions for Mediating Collaborative Interaction in a Co-located Collaborative Digital Game using Multi-Display Composition,X,-,-,-,-
+Improve Immersion in Virtual Reality-Based Basketball Training By Haptic Feedback,X,-,-,-,-
+The Effect of Latency on Movement Time in Path-steering,X,-,-,-,-
+Dominant or Submissive? Exploring Social Perceptions Across the Human-Robot Spectrum,X,-,-,-,-
+U-star: an underwater navigation system based on passive 3D optical identification tags,X,-,-,-,-
+Investigating Changes in Hand-Eye Coordination and Reaction Time Using a VR Squash Simulation,X,-,-,-,-
+A Role Based Model Template for Specifying Virtual Reality Software,X,-,-,-,-
+Breathing based immersive interactions for enhanced agency and body awareness: a claustrophobia motivated study,X,-,-,-,-
+ImageAssist: Tools for Enhancing Touchscreen-Based Image Exploration Systems for Blind and Low Vision Users,X,-,-,-,-
+Effects of Environmental Noise Levels on Patient Handoff Communication in a Mixed Reality Simulation,X,-,-,-,-
+ISS Companion '23: Companion Proceedings of the 2023 Conference on Interactive Surfaces and Spaces,X,-,-,-,-
+Forests in the Digital Age: Concepts and Technologies for Designing and Deploying Forest Digital Twins,X,-,-,-,-
+Virtual Reality as a mean for increasing privacy awareness: The escape room example,X,-,-,-,-
+SA '22: SIGGRAPH Asia 2022 Technical Communications,X,-,-,-,-
+ISMM 2024: Proceedings of the 2024 ACM SIGPLAN International Symposium on Memory Management,X,-,-,-,-
+"Casual Games, Cognition, and Play across the Lifespan: A Critical Synthesis",X,-,-,-,-
+Pedestrian motion in simulation applications using deep learning,X,-,-,-,-
+Searching for Products in Virtual Reality: Understanding the Impact of Context and Result Presentation on User Experience,X,-,-,-,-
+Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is Not the Moon,X,-,-,-,-
+Conversational Assessment of Mild Cognitive Impairment with Virtual Agents,X,-,-,-,-
+Seamless Gaze Gesture Interactions With Various Devices Without Moving Objects as Visual Stimulation,X,-,-,-,-
+"HEROES, Design of an Exergame for Balance Recovery of Stroke Patients for a Home Environment",X,-,-,-,-
+Gaining Impact with Mixed Reality in Industry – A Sustainable Approach,X,-,-,-,-
+Simulative Investigations of Crowd Evacuation by Incorporating Reinforcement Learning Scheme,X,-,-,-,-
+"Developing an edutainment game, taboo!, for children with ADHD based on socially aware design and VCIA model",X,-,-,-,-
+Volumetric Interaction: a new approach to expanding embodied experience in XR,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Doctoral Consortium,X,-,-,-,-
+Beyond Charts: A Mixed-Reality System for Visualizing and Experiencing Data,X,-,-,-,-
+An Integrated Framework for Understanding Multimodal Embodied Experiences in Interactive Virtual Reality,X,-,-,-,-
+Play to Learn: from Serious Games to just Games,X,-,-,-,-
+UIST '23 Adjunct: Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology,X,-,-,-,-
+Assessing Superhuman Speed as a Gamified Reward in a Virtual Reality Bike Exergame,X,-,-,-,-
+VRCAI '22: Proceedings of the 18th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry,X,-,-,-,-
+CatHill: Emotion-Based Interactive Storytelling Game as a Digital Mental Health Intervention,X,-,-,-,-
+Dance with Rhythmic Frames: Improving Dancing Skills by Frame-by-Frame Presentation,X,-,-,-,-
+A Virtual Reality Framework for Human-Driver Interaction Research: Safe and Cost-Effective Data Collection,X,-,-,-,-
+A Community-Based Exploration Into Gesture-driven Locomotion Control in Virtual Reality,X,-,-,-,-
+The Absence of Athletic Avatars' Effects on Physiological and Perceptual Responses while Cycling in Virtual Reality,X,-,-,-,-
+Fit to Draw: An Elevation of Location-Based Exergames,X,-,-,-,-
+The Effects of Frame Rate Variation on Game Player Quality of Experience,X,-,-,-,-
+Designing Gaze-Aware Attention Feedback for Learning in Mixed Reality,X,-,-,-,-
+Changing Parent Attitudes Towards HPV Vaccination by Including Adolescents in Multiparty Counseling using Virtual Agents,X,-,-,-,-
+The Impact of Latency on Target Selection in First-Person Shooter Games,X,-,-,-,-
+ICIMMI '22: Proceedings of the 4th International Conference on Information Management &amp; Machine Intelligence,X,-,-,-,-
+Blended Collaboration: Communication and Cooperation Between Two Users Across the Reality-Virtuality Continuum,X,-,-,-,-
+Bean Academy: A Music Composition Game for Beginners with Vocal Query Transcription,X,-,-,-,-
+"How to Notify Team Members during Asynchronous Remote Collaboration supported by Mixed Reality: Comparing Visual, Audio and Tactile Notifications",X,-,-,-,-
+Communication for Underwater Sensor Networks: A Comprehensive Summary,X,-,-,-,-
+IoT Games and Gamified Systems: Summertime Sadness or Lust for Hype?,X,-,-,-,-
+Predicting Player Engagement in Tom Clancy's The Division 2: A Multimodal Approach via Pixels and Gamepad Actions,X,-,-,-,-
+FUNARCH 2023: Proceedings of the 1st ACM SIGPLAN International Workshop on Functional Software Architecture,X,-,-,-,-
+Adaptive Field-of-view Restriction: Limiting Optical Flow to Mitigate Cybersickness in Virtual Reality,X,-,-,-,-
+"Bees, Birds and Butterflies: Investigating the Influence of Distractors on Visual Attention Guidance Techniques",X,-,-,-,-
+Induce a Blink of the Eye: Evaluating Techniques for Triggering Eye Blinks in Virtual Reality,X,-,-,-,-
+From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autistic Individuals with the HoloBoard,X,-,-,-,-
+PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing,X,-,-,-,-
+Towards User-Aware VR Learning Environments: Combining Brain-Computer Interfaces with Virtual Reality for Mental State Decoding,X,-,-,-,-
+Lundheim: Exploring Affective Audio Techniques in an Action-Adventure Video Game,X,-,-,-,-
+"Touching the Moon: Leveraging Passive Haptics, Embodiment and Presence for Operational Assessments in Virtual Reality",X,-,-,-,-
+ICEDS '24: Proceedings of the 2024 5th International Conference on Education Development and Studies,X,-,-,-,-
+Sweating Avatars Decrease Perceived Exertion and Increase Perceived Endurance while Cycling in Virtual Reality,X,-,-,-,-
+COER: A Network Interface Offloading Architecture for RDMA and Congestion Control Protocol Codesign,X,-,-,-,-
+Glow the Buzz: a VR Puzzle Adventure Game Mainly Played Through Haptic Feedback,X,-,-,-,-
+FRAME '24: Proceedings of the 4th Workshop on Flexible Resource and Application Management on the Edge,X,-,-,-,-
+Evaluations of Parallel Views for Sequential VR Search Tasks,X,-,-,-,-
+FridgeSort - Improving Fridge Sorting behaviour to reduce Food Waste through a Mobile Serious Game,X,-,-,-,-
+Playful Reflection: Impact of Gamification on a Virtual Reality Simulation of Breastfeeding,X,-,-,-,-
+MMSys '23: Proceedings of the 14th ACM Multimedia Systems Conference,X,-,-,-,-
+The Sea Is a Sky: Towards a Poetry of Motion,X,-,-,-,-
+Unlocking cultural heritage: leveraging georeferenced tools and open data for enhanced cultural tourism experiences.,X,-,-,-,-
+Evaluating the Impact of Tiled User-Adaptive Real-Time Point Cloud Streaming on VR Remote Communication,X,-,-,-,-
+PEARC '23: Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good,X,-,-,-,-
+Uncovering Visually Impaired Gamers’ Preferences for Spatial Awareness Tools Within Video Games,X,-,-,-,-
+Tangible Web: An Interactive Immersion Virtual Reality Creativity System that Travels Across Reality,X,-,-,-,-
+Loci Stories: Exploring Design for Polyvocality&nbsp;,X,-,-,-,-
+A Dynamic Difficulty Adjustment Algorithm With Generic Player Behavior Classification Unity Plugin In Single Player Games,X,-,-,-,-
+"HUGO, a High-Resolution Tactile Emulator for Complex Surfaces",X,-,-,X,-
+Enhancing Non-Speech Information Communicated in Closed Captioning Through Critical Design,X,-,-,-,-
+Wish You Were Here: Mental and Physiological Effects of Remote Music Collaboration in Mixed Reality,X,-,-,-,-
+Study on the Perception of Implicit Indication When Collaborating with an Artificial Agent: Example with the Japanese Rice Cake “Mochi” Making,X,-,-,-,-
+Industry Practices for Challenging Autonomous Driving Systems with Critical Scenarios,X,-,-,-,-
+DreamVR: Curating an Interactive Exhibition in Social VR Through an Autobiographical Design Study,X,-,-,-,-
+The Personality Dimensions GPT-3 Expresses During Human-Chatbot Interactions,X,-,-,-,-
+FUSE – Flexible File Format and Intermediate Representation for Secure Multi-Party Computation,X,-,-,-,-
+How Are Your Participants Feeling Today? Accounting For and Assessing Emotions in Virtual Reality,X,-,-,-,-
+Virtual Reality Health Education to Prevent Musculoskeletal Disorders and Chronic Low Back Pain in Formal and Informal Caregivers.,X,-,-,-,-
+Generation of realistic facial animation of a CG avatar speaking a moraic language,X,-,-,-,-
+SkinMixer: Blending 3D Animated Models,X,-,-,-,-
+LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults,X,-,-,-,-
+Towards the Legibility of Multi-robot Systems,X,-,-,-,-
+ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 2,X,-,-,-,-
+CHI PLAY Companion '23: Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play,X,-,-,-,-
+Exploring Shape Embedding for Cloth-Changing Person Re-Identification via 2D-3D Correspondences,X,-,-,-,-
+Why Oatmeal is Cheap: Kolmogorov Complexity and Procedural Generation,X,-,-,-,-
+Eggventures: Strengthening Connectedness through Coop-Play,X,-,-,-,-
+Training lay counselors with virtual agents to promote vaccination,X,-,-,-,-
+CSCS '22: Proceedings of the 6th ACM Computer Science in Cars Symposium,X,-,-,-,-
+Monocular depth estimation using synthetic data with domain-separated feature alignment,X,-,-,-,-
+CHI PLAY '22: Extended Abstracts of the 2022 Annual Symposium on Computer-Human Interaction in Play,X,-,-,-,-
+RIDS: Implicit Detection of a Selection Gesture Using Hand Motion Dynamics During Freehand Pointing in Virtual Reality,X,-,-,-,-
+"ICGJ '23: Proceedings of the 7th International Conference on Game Jams, Hackathons and Game Creation Events",X,-,-,-,-
+TongueTap: Multimodal Tongue Gesture Recognition with Head-Worn Devices,X,-,-,-,-
+Diverse Effective Relationship Exploration for Cooperative Multi-Agent Reinforcement Learning,X,-,-,-,-
+Tailoring a Persuasive Game to Promote Secure Smartphone Behaviour,X,-,-,-,-
+It’s Not Warm But That’s Okay: About Robots That Avoid Human Stereotypes,X,-,-,-,-
+Virtual Reality Audio Game for Entertainment &amp; Sound Localization Training,X,-,-,-,-
+Improving Transferability for Domain Adaptive Detection Transformers,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Conference Papers,X,-,-,-,-
+GoodIT '22: Proceedings of the 2022 ACM Conference on Information Technology for Social Good,X,-,-,-,-
+Snatch and Hatch: Improving Receptivity Towards a Nature of Science with a Playful Mobile Application,X,-,-,-,-
+Navigating Complexity: Investigating How Students Move Through the Game Design Process,X,-,-,-,-
+Experiencing Reconstructed Reality: The Perception of Visual-Acoustic Properties,X,-,-,-,-
+CAFI-AR: Contact-aware Freehand Interaction with AR Objects,X,-,-,-,-
+What does it mean to cycle in Virtual Reality? Exploring Cycling Fidelity and Control of VR Bicycle Simulators,X,-,-,-,-
+"Effects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence, and Digital Eye Strain",X,-,-,-,-
+NeuroDog: Quadruped Embodiment using Neural Networks,X,-,-,-,-
+ETRA '24: Proceedings of the 2024 Symposium on Eye Tracking Research and Applications,X,-,-,-,-
+LIFT - A System to Create Mixed 360° Video and 3D Content for Live Immersive Virtual Field Trip,X,-,-,-,-
+Following the Leader in Multiplayer Tabletop Games,X,-,-,-,-
+"""Can you help me?"": an experience report of teamwork in a game coding camp for autistic high school students",X,-,-,-,-
+Using Feedforward to Reveal Interaction Possibilities in Virtual Reality,X,-,-,-,-
+Evaluating Difficulty Adjustments in a VR Exergame for Younger and Older Adults: Transferabilities and Differences,X,-,-,-,-
+Working with Forensic Practitioners to Understand the Opportunities and Challenges for Mixed-Reality Digital Autopsy,X,-,-,-,-
+Touch-less Remedial Game Prototype for Hand Rehabilitation - Feedback Results,X,-,-,-,-
+Collaborative Software Exploration with Multimedia Note Taking in Virtual Reality,X,-,-,-,-
+Visuo-haptic Crossmodal Shape Perception Model for Shape-Changing Handheld Controllers Bridged by Inertial Tensor,X,-,-,-,-
+MuscleRehab: Improving Unsupervised Physical Rehabilitation by Monitoring and Visualizing Muscle Engagement,X,-,-,-,-
+Spatial Audio Empowered Smart speakers with Xblock - A Pose-Adaptive Crosstalk Cancellation Algorithm for Free-moving Users,X,-,-,-,-
+Workspace Scaling in Virtual Reality based Robot Teleoperation,X,-,-,-,-
+Don’t Panic! - Influence of Virtual Stressor Representations from the ICU Context on Perceived Stress Levels,X,-,-,-,-
+SA '22: SIGGRAPH Asia 2022 Posters,X,-,-,-,-
+Can Cross-Reality Help Nonspeaking Autistic People Transition to AR Typing?,X,-,-,-,-
+CBMI '22: Proceedings of the 19th International Conference on Content-based Multimedia Indexing,X,-,-,-,-
+TADA: Making Node-link Diagrams Accessible to Blind and Low-Vision People,X,-,-,-,-
+Procedural Game Level Design to Trigger Spatial Exploration,X,-,-,-,-
+The Rubber Hand Illusion in Virtual Reality and the Real World - Comparable but Different,X,-,-,-,-
+FDG '22: Proceedings of the 17th International Conference on the Foundations of Digital Games,X,-,-,-,-
+SA '22: SIGGRAPH Asia 2022 XR,X,-,-,-,-
+A Matter of Perspective: Designing Immersive Character Transitions for Virtual Reality Games,X,-,-,-,-
+Augmented Objects as Portals into Virtual Worlds:Using Audio to Create Immersive Experiences in Extended Realities,X,-,-,-,-
+A Virtual Reality Application to Make Mathematical Functions Accessible,X,-,-,-,-
+MOCO '24: Proceedings of the 9th International Conference on Movement and Computing,X,-,-,-,-
+GERRY: a gamified browser tool for GUI testing,X,-,-,-,-
+Grow Your Plant: A Plant-Based Game For Creating Awareness About Sustainability Behaviour by Using Renewable Energy,X,-,-,-,-
+"Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences with Augmented Reality and Large Language Models",X,-,-,-,-
+Facs-Charm: A Hybrid Agent-Based and Discrete-Event Simulation Approach for Covid-19 Management at Regional Level,X,-,-,-,-
+The RayHand Navigation: A Virtual Navigation Method with Relative Position between Hand and Gaze-Ray,X,-,-,-,-
+Exploring Situated Empathy through a Metaverse Campus,X,-,-,-,-
+Serious Game for Learning Ship Electrical Earth Fault Troubleshooting based on User and Expert Involvement,X,-,-,-,-
+MouseClicker: Exploring Tactile Feedback and Physical Agency for People with Hand Motor Impairments,X,-,-,-,-
+Play with my Expectations: Players Implicitly Anticipate Game Events Based on In-Game Time-Event Correlations,X,-,-,-,-
+The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality,X,-,-,-,-
+IMX '23: Proceedings of the 2023 ACM International Conference on Interactive Media Experiences,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 Emerging Technologies,X,-,-,-,-
+Reducing Racial Bias by Interacting with Virtual Agents: An Intervention in Virtual Reality,X,-,-,-,-
+“The Guide Has Your Back”: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People,X,-,-,-,-
+Going Incognito in the Metaverse: Achieving Theoretically Optimal Privacy-Usability Tradeoffs in VR,X,-,-,-,-
+"ICACS '22: Proceedings of the 6th International Conference on Algorithms, Computing and Systems",X,-,-,-,-
+A Framework for Analogue Game-modification Learning: Guidelines to Lower Barriers for Games in Education,X,-,-,-,-
+All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronization,X,-,-,-,-
+SA '23: SIGGRAPH Asia 2023 XR,X,-,-,-,-
+UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology,X,-,-,-,-
+Let’s Compete! The Influence of Human-Agent Competition and Collaboration on Agent Learning and Human Perception,X,-,-,-,-
+Multiperspective Teaching of Unknown Objects via Shared-gaze-based Multimodal Human-Robot Interaction,X,-,-,-,-
+MMVE '24: Proceedings of the 16th International Workshop on Immersive Mixed and Virtual Environment Systems,X,-,-,-,-
+SAP '23: ACM Symposium on Applied Perception 2023,X,-,-,-,-
+A Hierarchical Game-Theoretic Decision-Making for Cooperative Multiagent Systems Under the Presence of Adversarial Agents,X,-,-,-,-
+IPMV '23: Proceedings of the 2023 5th International Conference on Image Processing and Machine Vision,X,-,-,-,-
+MobileHCI '23 Companion: Proceedings of the 25th International Conference on Mobile Human-Computer Interaction,X,-,-,-,-
+GREIL-Crowds: Crowd Simulation with Deep Reinforcement Learning and Examples,X,-,-,-,-
+Enhancing the security of gaming transactions using blockchain technology,X,-,-,-,-
+RobCE '24: Proceedings of the 2024 4th International Conference on Robotics and Control Engineering,X,-,-,-,-
+Interactive Narrative and Story-telling,X,-,-,-,-
+HyWay: Enabling Mingling in the Hybrid World,X,-,-,-,-
+VRST '23: Proceedings of the 29th ACM Symposium on Virtual Reality Software and Technology,X,-,-,-,-
+Investigating the Influence of Gaze- and Context-Adaptive Head-up Displays on Take-Over Requests,X,-,-,-,-
+CompSysTech '24: Proceedings of the International Conference on Computer Systems and Technologies 2024,X,-,-,-,-
+Geppetteau: Enabling haptic perceptions of virtual fluids in various vessel profiles using a string-driven haptic interface,X,-,-,-,-
+"LINA - A Social Augmented Reality Game around Mental Health, Supporting Real-world Connection and Sense of Belonging for Early Adolescents",X,-,-,-,-
+ICCMT '24: Proceedings of the 2024 International Conference on Computer and Multimedia Technology,X,-,-,-,-
+"Work Hard, Scare Hard? An Investigation of How Mental Workload Impacts Jump Scare Intensity",X,-,-,-,-
+Dancing with the Avatars: Minimal Avatar Customisation Enhances Learning in a Psychomotor Task,X,-,-,-,-
+MR Object Identification and Interaction: Fusing Object Situation Information from Heterogeneous Sources,X,-,-,-,-
+Using the Visual Language of Comics to Alter Sensations in Augmented Reality,X,-,-,-,-
+Sturgeon-MKIII: Simultaneous Level and Example Playthrough Generation via Constraint Satisfaction with Tile Rewrite Rules,X,-,-,-,-
+IMX '24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences,X,-,-,-,-
+MetaSys '23: Proceedings of the First Workshop on Metaverse Systems and Applications,X,-,-,-,-
+VRST '22: Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology,X,-,-,-,-
+Exploring the Impact of Interconnected External Interfaces in Autonomous Vehicles on Pedestrian Safety and Experience,X,-,-,-,-
+ARCritique: Supporting Remote Design Critique of Physical Artifacts through Collaborative Augmented Reality,X,-,-,-,-
+Development of a Virtual Reality Treatment for Tinnitus - A User Study,X,-,-,-,-
+Curiosity-Driven and Victim-Aware Adversarial Policies,X,-,-,-,-
+"Meeting Your Virtual Twin: Effects of Photorealism and Personalization on Embodiment, Self-Identification and Perception of Self-Avatars in Virtual Reality",X,-,-,-,-
+SUI '22: Proceedings of the 2022 ACM Symposium on Spatial User Interaction,X,-,-,-,-
+Be Our Guest: Intercultural Heritage Exchange through Augmented Reality (AR),X,-,-,-,-
+CHIGREECE '23: Proceedings of the 2nd International Conference of the ACM Greek SIGCHI Chapter,X,-,-,-,-
+Nudging or Waiting? Automatically Synthesized Robot Strategies for Evacuating Noncompliant Users in an Emergency Situation,X,-,-,-,-
+UnMapped: Leveraging Experts’ Situated Experiences to Ease Remote Guidance in Collaborative Mixed Reality,X,-,-,-,-
+Outpace Reality: A Novel Augmented-Walking Technique for Virtual Reality Games,X,-,-,-,-
+Consistency Learning based on Class-Aware Style Variation for Domain Generalizable Semantic Segmentation,X,-,-,-,-
+SUI '23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction,X,-,-,-,-
+BDIOT '23: Proceedings of the 2023 7th International Conference on Big Data and Internet of Things,X,-,-,-,-
+Introducing VAMPIRE – Using Kinaesthetic Feedback in Virtual Reality for Automated Driving Experiments,X,-,-,-,-
+Autism and Socially Interactive Agents,X,-,-,-,-
+MMSys '24: Proceedings of the 15th ACM Multimedia Systems Conference,X,-,-,-,-
+"Designing Immersive, Narrative-Based Interfaces to Guide Outdoor Learning",X,-,-,-,-
+“I Feel My Abs”: Exploring Non-standing VR Locomotion,X,-,-,-,-
+Communicating Agent Intentions for Human-Agent Decision Making under Uncertainty,X,-,-,-,-
+"AeroTraj: Trajectory Planning for Fast, and Accurate 3D Reconstruction Using a Drone-based LiDAR",X,-,-,-,-
+CSCS '23: Proceedings of the 7th ACM Computer Science in Cars Symposium,X,-,-,-,-
+ARTECH '23: Proceedings of the 11th International Conference on Digital and Interactive Arts,X,-,-,-,-
+Investigating the Use of AR Glasses for Content Annotation on Mobile Devices,X,-,-,-,-
+UIST '22 Adjunct: Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology,X,-,-,-,-
+DoodleTunes: Interactive Visual Analysis of Music-Inspired Children Doodles with Automated Feature Annotation,X,-,-,-,-
+ICSE-SEIP '24: Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice,X,-,-,-,-
+GECCO '24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion,X,-,-,-,-
+Using Virtual Reality to Shape Humanity’s Return to the Moon: Key Takeaways from a Design Study,X,-,-,-,-
+"MOBISYS '24: Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services",X,-,-,-,-
+Gaze on the Go: Effect of Spatial Reference Frame on Visual Target Acquisition During Physical Locomotion in Extended Reality,X,-,-,-,-
+MuC '24: Proceedings of Mensch und Computer 2024,X,-,-,-,-
+Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts,X,-,-,-,-
+ICIEAI '23: Proceedings of the 2023 International Conference on Information Education and Artificial Intelligence,X,-,-,-,-
+IMXw '24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences Workshops,X,-,-,-,-
+LAGH: Towards Asymmetrical Collaborative Bodily Play between 1st and 2nd Person Perspectives,X,-,-,-,-
+ICSE '23: Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings,X,-,-,-,-
+One block on top of the other: using minetest to teach Scrum,X,-,-,-,-
+Towards an Eye-Brain-Computer Interface: Combining Gaze with the Stimulus-Preceding Negativity for Target Selections in XR,X,-,-,-,-
+GazeCues: Exploring the Effects of Gaze-based Visual Cues in Virtual Reality Exploration Games,X,-,-,-,-
+SIGSIM-PADS '24: Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation,X,-,-,-,-
+Fluito: Towards Understanding the Design of Playful Water Experiences through an Extended Reality Floatation Tank System,X,-,-,-,-
+ETRA '23: Proceedings of the 2023 Symposium on Eye Tracking Research and Applications,X,-,-,-,-
+Tracking Stuffed Toy for Naturally Mapped Interactive Play via a Soft-Pose Estimator,X,-,-,-,-
+CPS-IoT Week '23: Proceedings of Cyber-Physical Systems and Internet of Things Week 2023,X,-,-,-,-
+"CAICE '24: Proceedings of the 3rd International Conference on Computer, Artificial Intelligence and Control Engineering",X,-,-,-,-
+Design and Fabrication of Multifunctional E-Textiles by Upcycling Waste Cotton Fabrics through Carbonization,X,-,-,-,-
+C&amp;C '24: Proceedings of the 16th Conference on Creativity &amp; Cognition,X,-,-,-,-
+Rediscovering the Traditional UNESCO World Heritage Hawamahal through 3D Animation and Immersive Technology,X,-,-,-,-
+AHs '23: Proceedings of the Augmented Humans International Conference 2023,X,-,-,-,-
+Exploratory Study on the Perception of Intelligent Virtual Agents With Non-Native Accents Using Synthetic and Natural Speech in German,X,-,-,-,-
+FSE 2024: Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering,X,-,-,-,-
+ICAICE '23: Proceedings of the 4th International Conference on Artificial Intelligence and Computer Engineering,X,-,-,-,-
+Designing Inclusive Interaction with Autonomous Vehicles for Older Passengers,X,-,-,-,-
+Pla(y)cemaking With Care: Locative Mobile Games as Agents of Place Cultivation,X,-,-,-,-
+EICS '24 Companion: Companion Proceedings of the 16th ACM SIGCHI Symposium on Engineering Interactive Computing Systems,X,-,-,-,-
+CIIS '23: Proceedings of the 2023 6th International Conference on Computational Intelligence and Intelligent Systems,X,-,-,-,-
+ICHMI '24: Proceedings of the 2024 4th International Conference on Human-Machine Interaction,X,-,-,-,-
+HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction,X,-,-,-,-
+ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,X,-,-,-,-
+IVA '23: Proceedings of the 23rd ACM International Conference on Intelligent Virtual Agents,X,-,-,-,-
+i-CREATe '23: Proceedings of the 16th International Convention on Rehabilitation Engineering and Assistive Technology,X,-,-,-,-
+CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems,X,-,-,-,-
+COMPUTE '22: Proceedings of the 15th Annual ACM India Compute Conference,X,-,-,-,-
+AM '22: Proceedings of the 17th International Audio Mostly Conference,X,-,-,-,-
+ICEMT '23: Proceedings of the 7th International Conference on Education and Multimedia Technology,X,-,-,-,-
+AHs '24: Proceedings of the Augmented Humans International Conference 2024,X,-,-,-,-
+Interacci\'on '22: Proceedings of the XXII International Conference on Human Computer Interaction,X,-,-,-,-
+"ICNCC '23: Proceedings of the 2023 12th International Conference on Networks, Communication and Computing",X,-,-,-,-
+ICCCM '23: Proceedings of the 2023 11th International Conference on Computer and Communications Management,X,-,-,-,-
+Cross-device record and replay for Android apps,X,-,-,-,-
+HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction,X,-,-,X,-
+IUI '23 Companion: Companion Proceedings of the 28th International Conference on Intelligent User Interfaces,X,-,-,-,-
+"Gamify 2023: Proceedings of the 2nd International Workshop on Gamification in Software Development, Verification, and Validation",X,-,-,-,-
+Never Skip Leg Day Again: Training the Lower Body with Vertical Jumps in a Virtual Reality Exergame,X,-,-,-,-
+MuC '22: Proceedings of Mensch und Computer 2022,X,-,-,-,-
+IoT '23: Proceedings of the 13th International Conference on the Internet of Things,X,-,-,-,-
+WSC '23: Proceedings of the Winter Simulation Conference,X,-,-,-,-
+W4A '23: Proceedings of the 20th International Web for All Conference,X,-,-,-,-
+ICCIR '22: Proceedings of the 2022 2nd International Conference on Control and Intelligent Robotics,X,-,-,-,-
+ICETT '23: Proceedings of the 9th International Conference on Education and Training Technologies,X,-,-,-,-
+VaMoS '24: Proceedings of the 18th International Working Conference on Variability Modelling of Software-Intensive Systems,X,-,-,-,-
+PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments,X,-,-,-,-
+PETRA '23: Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments,X,-,-,-,-
+Tourgether360: Collaborative Exploration of 360° Videos using Pseudo-Spatial Navigation,X,-,-,-,-
+CSERC '22: Proceedings of the 11th Computer Science Education Research Conference,X,-,-,-,-
+CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems,X,-,-,-,-
+ICMIP '24: Proceedings of the 2024 9th International Conference on Multimedia and Image Processing,X,-,-,-,-
+SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education,X,-,-,-,-
+WiSec '24: Proceedings of the 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks,X,-,-,-,-
+ICDEL '23: Proceedings of the 2023 8th International Conference on Distance Education and Learning,X,-,-,-,-
+MUM '23: Proceedings of the 22nd International Conference on Mobile and Ubiquitous Multimedia,X,-,-,-,-
+ICPC '24: Proceedings of the 32nd IEEE/ACM International Conference on Program Comprehension,X,-,-,-,-
+ACM REP '23: Proceedings of the 2023 ACM Conference on Reproducibility and Replicability,X,-,-,-,-
+ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,X,-,-,-,-
+GECCO '23 Companion: Proceedings of the Companion Conference on Genetic and Evolutionary Computation,X,-,-,-,-
+ICEEL '22: Proceedings of the 2022 6th International Conference on Education and E-Learning,X,-,-,-,-
+ICMI '23: Proceedings of the 25th International Conference on Multimodal Interaction,X,-,-,-,-
+IDC '24: Proceedings of the 23rd Annual ACM Interaction Design and Children Conference,X,-,-,-,-
+SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1,X,-,-,-,-
+VINCI '23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction,X,-,-,-,-
+ICHMI '22: Proceedings of the 2022 International Conference on Human Machine Interaction,X,-,-,-,-
+Multi-Agent Advisor Q-Learning,X,-,-,-,-
+EuroPLoP '23: Proceedings of the 28th European Conference on Pattern Languages of Programs,X,-,-,-,-
+FAIML '23: Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning,X,-,-,-,-
+MuC '23: Proceedings of Mensch und Computer 2023,X,-,-,-,-
+ASSETS '22: Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility,X,-,-,-,-
+ICDIP '23: Proceedings of the 15th International Conference on Digital Image Processing,X,-,-,-,-
+ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,X,-,-,-,-
+SoCC '23: Proceedings of the 2023 ACM Symposium on Cloud Computing,X,-,-,-,-
+MMAsia '23: Proceedings of the 5th ACM International Conference on Multimedia in Asia,X,-,-,-,-
+ICSE-SEET '24: Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training,X,-,-,-,-
+"IVSP '24: Proceedings of the 2024 6th International Conference on Image, Video and Signal Processing",X,-,-,-,-
+CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems,X,-,-,-,-
+HAI '22: Proceedings of the 10th International Conference on Human-Agent Interaction,X,-,-,-,-
+AutomotiveUI '23 Adjunct: Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications,X,-,-,-,-
+ICSE '23: Proceedings of the 45th International Conference on Software Engineering,X,-,-,-,-
+ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,X,-,-,-,-
+ICCDA '23: Proceedings of the 2023 7th International Conference on Computing and Data Analysis,X,-,-,-,-
+PCI '22: Proceedings of the 26th Pan-Hellenic Conference on Informatics,X,-,-,-,-
+ICEEL '23: Proceedings of the 2023 7th International Conference on Education and E-Learning,X,-,-,-,-
+HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction,X,-,-,-,-
+ICIEI '23: Proceedings of the 2023 8th International Conference on Information and Education Innovations,X,-,-,-,-
+SETN '22: Proceedings of the 12th Hellenic Conference on Artificial Intelligence,X,-,-,-,-
+ASSETS '23: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility,X,-,-,-,-
+ISWC '23: Proceedings of the 2023 ACM International Symposium on Wearable Computers,X,-,-,-,-
+GoodIT '23: Proceedings of the 2023 ACM Conference on Information Technology for Social Good,X,-,-,-,-
+SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing,X,-,-,-,-
+CSCW '23 Companion: Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing,X,-,-,-,-
+ACSW '23: Proceedings of the 2023 Australasian Computer Science Week,X,-,-,-,-
+ICCTA '22: Proceedings of the 2022 8th International Conference on Computer Technology Applications,X,-,-,-,-
+"Pick, Click, Flick! The Story of Interaction Techniques",X,-,-,-,-
+CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,X,-,-,-,-
+ICETM '23: Proceedings of the 2023 6th International Conference on Educational Technology Management,X,-,-,-,-
+C&amp;C '23: Proceedings of the 15th Conference on Creativity and Cognition,X,-,-,-,-
+Mindtrek '23: Proceedings of the 26th International Academic Mindtrek Conference,X,-,-,-,-
+NordiCHI '22: Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference,X,-,-,-,-
+CLIHC '23: Proceedings of the XI Latin American Conference on Human Computer Interaction,X,-,-,-,-
+ICETC '22: Proceedings of the 14th International Conference on Education Technology and Computers,X,-,-,-,-
+AM '23: Proceedings of the 18th International Audio Mostly Conference,X,-,-,-,-
+ICSE-SEIP '23: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice,X,-,-,-,-
+IUI '23: Proceedings of the 28th International Conference on Intelligent User Interfaces,X,-,-,-,-
+"ACAI '22: Proceedings of the 2022 5th International Conference on Algorithms, Computing and Artificial Intelligence",X,-,-,-,-
+AAMAS '24: Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems,X,-,-,-,-
+CHCHI '23: Proceedings of the Eleventh International Symposium of Chinese CHI,X,-,-,-,-
+OzCHI '23: Proceedings of the 35th Australian Computer-Human Interaction Conference,X,-,-,-,-
+ICCCV '22: Proceedings of the 5th International Conference on Control and Computer Vision,X,-,-,-,-
+ACM MobiCom '23: Proceedings of the 29th Annual International Conference on Mobile Computing and Networking,X,-,-,-,-
+ICCSIE '23: Proceedings of the 8th International Conference on Cyber Security and Information Engineering,X,-,-,-,-
+Chinese CHI '22: Proceedings of the Tenth International Symposium of Chinese CHI,X,-,-,-,-
+"ASENS '24: Proceedings of the International Conference on Algorithms, Software Engineering, and Network Security",X,-,-,-,-
+Academic Mindtrek '22: Proceedings of the 25th International Academic Mindtrek Conference,X,-,-,-,-
+"RAID '23: Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses",X,-,-,-,-
+ICMI '23 Companion: Companion Publication of the 25th International Conference on Multimodal Interaction,X,-,-,-,-
+MAB '23: Proceedings of the 6th Media Architecture Biennale Conference,X,-,-,-,-
+ICCCM '22: Proceedings of the 10th International Conference on Computer and Communications Management,X,-,-,-,-
+"ICEEG '23: Proceedings of the 2023 7th International Conference on E-Commerce, E-Business and E-Government",X,-,-,-,-
+UbiComp/ISWC '22 Adjunct: Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers,X,-,-,-,-
+ICMI '22 Companion: Companion Publication of the 2022 International Conference on Multimodal Interaction,X,-,-,-,-
+IDC '23: Proceedings of the 22nd Annual ACM Interaction Design and Children Conference,X,-,-,-,-
+"UMAP '23 Adjunct: Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization",X,-,-,-,-
+ASIA CCS '23: Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security,X,-,-,-,-
+AfriCHI '23: Proceedings of the 4th African Human Computer Interaction Conference,X,-,-,-,-
+MUM '22: Proceedings of the 21st International Conference on Mobile and Ubiquitous Multimedia,X,-,-,-,-
+EITCE '22: Proceedings of the 2022 6th International Conference on Electronic Information Technology and Computer Engineering,X,-,-,-,-
+OzCHI '22: Proceedings of the 34th Australian Conference on Human-Computer Interaction,X,-,-,-,-
+ICRSA '23: Proceedings of the 2023 6th International Conference on Robot Systems and Applications,X,-,-,-,-
+ICMI '22: Proceedings of the 2022 International Conference on Multimodal Interaction,X,-,-,-,-
+ICCMS '22: Proceedings of the 14th International Conference on Computer Modeling and Simulation,X,-,-,-,-
+"CHASE '23: Proceedings of the 8th ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies",X,-,-,-,-
+ACSAC '22: Proceedings of the 38th Annual Computer Security Applications Conference,X,-,-,-,-
+NordiCHI '22: Nordic Human-Computer Interaction Conference,X,-,-,-,-
+UbiComp/ISWC '23 Adjunct: Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing &amp; the 2023 ACM International Symposium on Wearable Computing,X,-,-,-,-
+C&amp;T '23: Proceedings of the 11th International Conference on Communities and Technologies,X,-,-,-,-
+ICoMS '23: Proceedings of the 2023 6th International Conference on Mathematics and Statistics,X,-,-,-,-
+IHC '23: Proceedings of the XXII Brazilian Symposium on Human Factors in Computing Systems,X,-,-,-,-
+ICEMT '22: Proceedings of the 6th International Conference on Education and Multimedia Technology,X,-,-,-,-
+CSAI '22: Proceedings of the 2022 6th International Conference on Computer Science and Artificial Intelligence,X,-,-,-,-
+ACM SIGCOMM '23: Proceedings of the ACM SIGCOMM 2023 Conference,X,-,-,-,-
+SBSI '23: Proceedings of the XIX Brazilian Symposium on Information Systems,X,-,-,-,-
+AutomotiveUI '22: Proceedings of the 14th International Conference on Automotive User Interfaces and Interactive Vehicular Applications,X,-,-,-,-
+"TEI '23: Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",X,-,-,-,-
+AutomotiveUI '23: Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications,X,-,-,-,-

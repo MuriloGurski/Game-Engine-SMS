@@ -1,0 +1,761 @@
+Document Title,EC1,EC2,EC3,EC4,EC5
+{The {Potential} of {Game} {Development} {Platforms} for {Digital} {Twins} and {Virtual} {Labs}},-,-,-,-,X
+{{GVRf} and {Blender}: {A} {Path} for {Android} {Apps} and {Games} {Development}},X,-,-,-,X
+{Teaching {3D} {Arts} {Using} {Game} {Engines} for {Engineering} and {Architecture}},-,-,-,-,X
+{The {Application} of {Visual} {Image} and {Interactive} {Storytelling} to {Stage} {Performance}},-,-,-,-,X
+{A {Benchmark} and {Simulator} for {UAV} {Tracking}},X,-,-,-,X
+{Software {Architectures} and the {Creative} {Processes} in {Game} {Development}},-,-,-,-,-
+{Towards a {Structured} {Selection} of {Game} {Engines} for {Virtual} {Environments}},-,-,-,-,-
+{Programming {Virtual} {Interactions} for {Gamified} {Educational} {Proposes} of {Urban} {Spaces}},-,-,-,-,-
+{Haptic {User} {Interface} {Integration} for {3D} {Game} {Engines}},-,-,-,-,-
+{Integrating {Stereoscopic} {Video} in {3D} {Games}},-,-,-,-,-
+{A {3D} {Simulator} of {Multiple} {Legged} {Robots} {Based} on {USARSim}},X,-,-,-,X
+{{VClav} 2.0 – {System} for {Playing} {3D} {Virtual} {Copy} of a {Historical} {Clavichord}},-,-,-,-,X
+{Paracosm: {A} {Test} {Framework} for {Autonomous} {Driving} {Simulations}},X,-,-,-,X
+{Emotionally {Adapted} {Games} – {An} {Example} of a {First} {Person} {Shooter}},X,-,-,-,X
+{Gamification in the {Development} of {Accessible} {Software}},-,-,-,-,X
+{Collaborative {Visualization} of a {Warfare} {Simulation} {Using} a {Commercial} {Game} {Engine}},-,-,-,-,-
+{Social {Puppets}: {Towards} {Modular} {Social} {Animation} for {Agents} and {Avatars}},X,-,-,-,X
+{Searching for {Concurrent} {Design} {Patterns} in {Video} {Games}},-,-,-,-,X
+{Using {Game} {Engines} for {Visualization} in {Scientific} {Applications}},-,-,-,-,-
+{Web-{Based} {Visualization} {Component} for {Geo}-{Information}},-,-,-,-,X
+{{UnrealCV}: {Connecting} {Computer} {Vision} to {Unreal} {Engine}},-,-,-,-,-
+{Anyboard: {A} {Platform} for {Hybrid} {Board} {Games}},X,-,-,-,X
+{Playing for {Data}: {Ground} {Truth} from {Computer} {Games}},-,-,-,-,X
+{Author-{Driven} {Approaches} to {Computational} {Narrative} {Design} for {Games}},X,-,-,-,X
+{{3D} {Design} for {Augmented} {Reality}},X,-,-,-,X
+{Advanced {Data} {Driven} {Visualisation} for {Geo}-spatial {Data}},X,-,-,-,X
+{A {Testbed} for {Rapid} {Design} and {Evaluation} of {VR} {Navigation} {Techniques} for {Industrial} {Applications}},X,-,-,-,X
+{Using {Game} {Engines} in {Mixed} {Reality} {Installations}},-,-,-,-,X
+{Real-{Time} {Hair} {Rendering} {Using} {Sequential} {Adversarial} {Networks}},X,-,-,-,-
+{Leveraging a {Virtual} {Environment} to {Prepare} for {School} {Shootings}},X,-,-,-,X
+{Interactive {Visualization} of {Interdependencies} and {Vulnerabilities} in {Constrained} {Environments}},X,-,-,-,X
+{Games for {Research}: {A} {Comparative} {Study} of {Open} {Source} {Game} {Projects}},X,-,-,-,X
+{Modding as an {Open} {Source} {Approach} to {Extending} {Computer} {Game} {Systems}},-,-,-,-,X
+{Videogame {Technology} in {Architecture} {Education}},-,-,-,-,X
+{The {ICOCOON} {Virtual} {Meeting} {Room}: {A} {Virtual} {Environment} as a {Support} {Tool} for {Multipoint} {Teleconference} {Systems}},X,-,-,-,X
+{Parallelizing a {Real}-{Time} {Physics} {Engine} {Using} {Transactional} {Memory}},X,-,-,-,X
+{Development of an {Audio}-{Haptic} {Virtual} {Interface} for {Navigation} of {Large}-{Scale} {Environments} for {People} {Who} {Are} {Blind}},X,-,-,-,X
+{Multi-modal {System} {Architecture} for {Serious} {Gaming}},-,-,-,-,-
+{Integration of {CityGML} and {Collada} for {High}-{Quality} {Geographic} {Data} {Visualization} on the {PC} and {Xbox} 360},X,-,-,-,X
+{{SoundPark}: {Towards} {Highly} {Collaborative} {Game} {Support} in a {Ubiquitous} {Computing} {Architecture}},X,-,-,-,X
+{Noise {Modeler}: {An} {Interactive} {Editor} and {Library} for {Procedural} {Terrains} via {Continuous} {Generation} and {Compilation} of {GPU} {Shaders}},X,-,-,-,X
+{Critical {Infrastructure} {Protection} {Risk} {Modelling} with {Games} {Technology}},-,-,-,-,X
+{Serious {Games}: {Customizing} the {Audio}-{Visual} {Interface}},X,-,-,-,X
+{A {Data}-{Driven} {Entity}-{Component} {Approach} to {Develop} {Universally} {Accessible} {Games}},X,-,-,-,X
+{Towards {Learning} a {Realistic} {Rendering} of {Human} {Behavior}},X,-,-,-,X
+{Solving {Rendering} {Issues} in {Realistic} {3D} {Immersion} for {Visual} {Rehabilitation}},X,-,-,-,X
+{Developing {Adaptive} {Mobile} {Support} for {Crisis} {Response} in {Synthetic} {Task} {Environments}},X,-,-,-,X
+{Continuous {Level} of {Detail} on {Graphics} {Hardware}},-,-,-,-,X
+{Intuitive {3D} {Model} {Prototyping} with {Leap} {Motion} and {Microsoft} {HoloLens}},-,-,-,-,X
+{Real-{Time} {Motion} {Capture} on a {Budget}},-,-,-,-,X
+{Complex {Game} {Design} {Modeling}},-,-,-,-,X
+{Implementation of {Educational} {Drum} {Contents} {Using} {Mixed} {Reality} and {Virtual} {Reality}},X,-,-,-,X
+{Augmented {Reality} and {Microbit} for {Project}-{Based} {Learning}},-,-,-,-,X
+{Investigating {Low}-{Cost} {Virtual} {Reality} {Technologies} in the {Context} of an {Immersive} {Maintenance} {Training} {Application}},-,-,-,-,X
+{A {Fragment} {Culling} {Technique} for {Rendering} {Arbitrary} {Portals}},-,-,-,-,X
+{Teaching {UAVs} to {Race}: {End}-to-{End} {Regression} of {Agile} {Controls} in {Simulation}},X,-,-,-,X
+{{LCrowdV}: {Generating} {Labeled} {Videos} for {Simulation}-{Based} {Crowd} {Behavior} {Learning}},-,-,-,-,X
+{Development of {Holographic} {Environment} for {Multi}-user {Virtual} {Robot} {Training} {System}},X,-,-,-,X
+{Intelligent {Virtual} {Environment} {Using} {Artificial} {Neural} {Networks}},-,-,-,-,X
+{Game-{Based} {Simulation} for the {Evaluation} of {Threat} {Detection} in a {Seaport} {Environment}},X,-,-,-,X
+{A {Systematic} {Review} of {Game} {Design} {Methods} and {Tools}},X,-,-,-,X
+{A {Virtual} {Environment} for {Learning} {Aiport} {Emergency} {Management} {Protocols}},-,-,-,-,X
+{Development of an {Autonomous} {Rescue} {Robot} {Within} the {USARSim} {3D} {Virtual} {Environment}},-,-,-,-,X
+{Developing {Re}-{Usable} {Interactive} {Storytelling} {Technologies}},-,-,-,-,X
+{A {Battle} of {Wit}: {Applying} {Computational} {Humour} to {Game} {Design}},X,-,-,-,X
+{{AR}’istophanes: {Mixed} {Reality} {Live} {Stage} {Entertainment} with {Spectator} {Interaction}},-,-,-,-,X
+{Measuring {Game}-{Play} {Performance} and {Perceived} {Immersion} in a {Domed} {Planetarium} {Projection} {Environment}},X,-,-,-,X
+{Screen {Space} {Cone} {Tracing} for {Glossy} {Reflections}},-,-,-,-,-
+{A {Surround} {Display} {Warp}-{Mesh} {Utility} to {Enhance} {Player} {Engagement}},X,-,-,-,-
+{{TopLeague} and {Bundesliga} {Manager}: {New} {Generation} {Online} {Soccer} {Games}},X,-,-,-,X
+{Modeling {Camera} {Effects} to {Improve} {Visual} {Learning} from {Synthetic} {Data}},X,-,-,-,X
+{Virtual {Environment} for the {Treatment} of {Patients} with {Hemiparesis}},-,-,-,-,X
+{Coping with {Complex} {Real}-{World} {Problems}: {Strategies} for {Developing} the {Competency} of {Transdisciplinary} {Collaboration}},X,-,-,-,X
+{Mesh {Extraction} from a {Regular} {Grid} {Structure} {Using} {Adjacency} {Matrix}},-,-,-,-,X
+{User {Interface} {Prototyping} {Toolkit} ({UIPT})},-,-,-,-,X
+{Exploring the {Metaverse}: {Opportunities} for {Tourism} and {Territorial} {Development}},-,-,-,-,X
+{Programming a {Robotic} {Toy} with a {Block} {Coding} {Application}: {A} {Usability} {Study} with {Non}-programmer {Adults}},X,-,-,-,X
+{Large-{Scale} {Stochastic} {Scene} {Generation} and {Semantic} {Annotation} for {Deep} {Convolutional} {Neural} {Network} {Training} in the {RoboCup} {SPL}},-,-,-,-,X
+{Enabling {Codesharing} in {Rescue} {Simulation} with {USARSim}/{ROS}},-,-,-,-,X
+{Interaction {Techniques} in {Three}-{Dimensional} {Virtual} {Environments} {Based} on {Games} to {Support} {Chronic} {Diseases} {Treatment}: {A} {Systematic} {Review}},X,-,-,-,X
+{Linked {Open} {Data} {Driven} {Game} {Generation}},X,-,-,-,X
+{{fAARS}: {A} {Platform} for {Location}-{Aware} {Trans}-reality {Games}},X,-,-,-,X
+{Mappets: {An} {Interactive} {Plugin} for {Transmedia} {Machinima} on {Unity3D}},-,-,-,-,X
+{A {Feature}-{Based} {Environment} for {Digital} {Games}},-,-,-,-,X
+{Choosing a {Selection} {Technique} for a {Virtual} {Environment}},X,-,-,-,X
+{Bridging the {Gap} {Between} {Simulation} and {Reality} in {Urban} {Search} and {Rescue}},X,-,-,-,X
+{Development of a {Virtual} {Electric} {Wheelchair} – {Simulation} and {Assessment} of {Physical} {Fidelity} {Using} the {Unreal} {Engine} 3},-,-,-,-,-
+{Rule-{Based} {Camerawork} {Controller} for {Automatic} {Comic} {Generation} from {Game} {Log}},-,-,-,-,X
+{Immersive {Digital} {Games}: {The} {Interfaces} for {Next}-{Generation} {E}-{Learning}?},X,-,-,-,X
+{An {Empirical} {Study} on {Immersive} {Prototyping} {Dimensions}},X,-,-,-,X
+{Head {Tracking} in {First}-{Person} {Games}: {Interaction} {Using} a {Web}-{Camera}},-,-,-,-,-
+{Exploration of the {Interactive} {Narrative} {Modes} and {Application} {Form} of {AR} {Animations}},-,-,-,-,X
+{Development and {Usability} of a {Low}-{Cost} {Kinect} {Game} to {Promote} {Movement} {Competence} in {Children} with and {Without} {Intellectual} {Disability}},-,-,-,-,X
+{{EDUGAME4CITY}. {A} {Gamification} for {Architecture} {Students}. {Viability} {Study} {Applied} to {Urban} {Design}},X,-,-,-,X
+{A {User}-{Centric} {Design} {Framework} for {Smart} {Built} {Environments}},X,-,-,-,X
+{A {Context}-{Aware} {Assistance} {Framework} for {Implicit} {Interaction} with an {Augmented} {Human}},X,-,-,-,X
+{Interpretable {Intuitive} {Physics} {Model}},X,-,-,-,X
+{Hand {Gesture} {Recognition} for {Smartphone}-{Based} {Augmented} {Reality} {Applications}},X,-,-,-,X
+{Learn-to-{Score}: {Efficient} {3D} {Scene} {Exploration} by {Predicting} {View} {Utility}},X,-,-,-,X
+{Rendering {Non}-{Euclidean} {Space} in {Real}-{Time} {Using} {Spherical} and {Hyperbolic} {Trigonometry}},-,-,-,-,X
+{Multiplatform {Game} {Type} of {Health} {Survey} on {Cancer} {Patient}’s {Stress} {Level}},-,-,-,-,X
+{Integration of {Artificial} {Intelligence} {Techniques} in a {Virtual} {Environment}},-,-,-,-,X
+{Virtual {Environment} to {Treat} {Social} {Anxiety}},X,-,-,-,X
+{Comic {Layout} for {Automatic} {Comic} {Generation} from {Game} {Log}},X,-,-,-,X
+"{Knowledge {Representation} {Environments}: {An} {Investigation} of the {CASSMs} between {Creators}, {Composers} and {Consumers}}",X,-,-,-,X
+{User {Studies} of a {Multiplayer} {First} {Person} {Shooting} {Game} with {Tangible} and {Physical} {Interaction}},X,-,-,-,X
+{{3D}-{HUDD} – {Developing} a {Prototyping} {Tool} for {3D} {Head}-{Up} {Displays}},X,-,-,-,X
+{Digital {Game}-{Based} {Learning}: {An} {Agent} {Approach}},X,-,-,-,X
+{Advances in {Game} {Accessibility} from 2005 to 2010},X,-,-,-,X
+{Using {3D} {Models} {And} {Discrete} {Simulations} {In} {Infrastructure} {Security} {Applications}},X,-,-,-,X
+{Skyfarer: {Design} {Case} {Study} of a {Mixed} {Reality} {Rehabilitation} {Video} {Game}},X,-,-,-,X
+{{UBBA}: {Unity} {Based} {BPMN} {Animator}},-,-,-,-,-
+{Element {Selection} of {Three}-{Dimensional} {Objects} in {Virtual} {Reality}},X,-,-,-,X
+{Investigating the {Influence} of {Optical} {Stimuli} on {Human} {Decision} {Making} in {Dynamic} {VR}-{Environments}},X,-,-,-,X
+{Virtual and {Real} {Body} {Experience} {Comparison} {Using} {Mixed} {Reality} {Cycling} {Environment}},X,-,-,-,X
+{Emergency {Response} {Using} {HoloLens} for {Building} {Evacuation}},X,-,-,-,X
+{An {Interactive} {Elementary} {Tutoring} {System} for {Oral} {Health} {Education} {Using} an {Augmented} {Approach}},X,-,-,-,X
+{Exergames: {Game} {Prototype} {Using} {Maker} {Movement} {Assets}},X,-,-,-,X
+{{MRCAT}: {In} {Situ} {Prototyping} of {Interactive} {AR} {Environments}},X,-,-,-,X
+"{Generalised {Player} {Modelling}: {Why} {Artificial} {Intelligence} in {Games} {Should} {Incorporate} {Meaning}, with a {Formalism} for so {Doing}}",X,-,-,-,X
+{Guidance {System} {Using} {Augmented} {Reality} for {Solving} {Rubik}’s {Cube}},X,-,-,-,X
+{Digital {Art} {Application} {Development}: {A} {Project} to {Increase} {Motivation} in {Systems} {Development} {Courses} for {Bachelor} {Students} in {Computer} {Engineering}},X,-,-,-,X
+"{Multidisciplinary {Iterative} {Design} of {Exergames} ({MIDE}): {A} {Framework} for {Supporting} the {Design}, {Development}, and {Evaluation} of {Exergames} for {Health}}",X,-,-,-,X
+{Beware of the {Robot}: {A} {Highly} {Interactive} and {Immersive} {Virtual} {Reality} {Training} {Application} in {Robotic} {Manufacturing} {Systems}},X,-,-,-,X
+{Integrating and {Delivering} {Sound} {Using} {Motion} {Capture} and {Multi}-tiered {Speaker} {Placement}},-,-,-,-,X
+{{3D} {Virtual} {Environments} for the {Rehabilitation} of the {Blind}},-,-,-,-,X
+{When {Items} {Become} {Victims}: {Brand} {Memory} in {Violent} and {Nonviolent} {Games}},X,-,-,-,X
+{Laugh {When} {You}’re {Winning}},X,-,-,-,X
+"{A {Virtual} {Testbed} for {Critical} {Incident} {Investigation} with {Autonomous} {Remote} {Aerial} {Vehicle} {Surveying}, {Artificial} {Intelligence}, and {Decision} {Support}}",X,-,-,-,X
+{A {Virtual} {Testbed} for {Studying} {Trust} in {Ambient} {Intelligence} {Environments}},X,-,-,-,X
+{An {Exploratory} {Comparison} of the {Visual} {Quality} of {Virtual} {Reality} {Systems} {Based} on {Device}-{Independent} {Testsets}},-,-,-,-,X
+{Multimodal {Interfaces} and {Sensory} {Fusion} in {VR} for {Social} {Interactions}},X,-,-,-,X
+{Learning to {Map} {Vehicles} into {Bird}’s {Eye} {View}},X,-,-,-,X
+"{Performance, {Simulator} {Sickness}, and {Immersion} of a {Ball}-{Sorting} {Task} in {Virtual} and {Augmented} {Realities}}",X,-,-,-,X
+{Natural {Interaction} and {Movement} {Paradigms}. {A} {Comparison} of {Usability} for a {Kinect} {Enabled} {Museum} {Installation}},-,-,-,-,X
+{Simulation {Sickness} {Evaluation} {While} {Using}   a {Fully} {Autonomous} {Car} in a {Head} {Mounted}   {Display} {Virtual} {Environment}},X,-,-,-,X
+{Energy-{Efficient} and {Quality} of {Experience}-{Aware} {Resource} {Provisioning} for {Massively} {Multiplayer} {Online} {Games} in the {Cloud}},X,-,-,-,X
+{Lessons from {Building} {Diverse} {Adaptive} {Instructional} {Systems} ({AIS})},X,-,-,-,X
+{Social {Impact} of {Enhanced} {Gaze} {Presentation} {Using} {Head} {Mounted} {Projection}},X,-,-,-,X
+{Penalizing {Top} {Performers}: {Conservative} {Loss} for {Semantic} {Segmentation} {Adaptation}},X,-,-,-,X
+"{Stories from the {History} of {Czechoslovakia}, {A} {Serious} {Game} for {Teaching} {History} of the {Czech} {Lands} in the 20th {Century} – {Notes} on {Design} {Concepts} and {Design} {Process}}",X,-,-,-,X
+{Introduction},X,-,-,-,X
+{Creating a {Regional} and {Historical} {Streetscape} {Simulation} {System}},-,-,-,-,X
+{A {Collaborative} {Science} {Learning} {Game} {Environment} for {Informal} {Science} {Education}:{DinoQuest} {Online}},X,-,-,-,X
+{Combining {Ludology} and {Narratology} in an {Open} {Authorable} {Framework} for {Educational} {Games} for {Children}: the {Scenario} of {Teaching} {Preschoolers} with {Autism} {Diagnosis}},X,-,-,-,X
+{Videogaming {Interaction} for {Mental} {Model} {Construction} in {Learners} {Who} {Are} {Blind}},X,-,-,-,X
+{Ultra {Low} {Cost} {Eye} {Gaze} {Tracking} for {Virtual} {Environments}},X,-,-,-,X
+{Usability {Dimensions} of {Simulated} {Detectors} for {Improvised} {Explosive} {Devices}},X,-,-,-,X
+{Don’t {Text} {While} {Driving}: {The} {Effect} of {Smartphone} {Text} {Messaging} on {Road} {Safety} during {Simulated} {Driving}},X,-,-,-,X
+{Squad {Overmatch}: {Using} {Virtual} {Technology} to {Enhance} {Live} {Training} {Environments}},X,-,-,-,X
+{Transferring an {Educational} {Board} {Game} to a {Multi}-user {Mobile} {Learning} {Game} to {Increase} {Shared} {Situational} {Awareness}},X,-,-,-,X
+{Interactive {VR}-based {Visualization} for {Material} {Flow} {Simulations}},X,-,-,-,X
+{A {Novel} {Way} of {Estimating} a {User}’s {Focus} of {Attention} in a {Virtual} {Environment}},X,-,-,-,X
+{Rehabilitation of {Balance}-{Impaired} {Stroke} {Patients} {Through} {Audio}-{Visual} {Biofeedback}},X,-,-,-,X
+{{RoboCup} {Rescue} {Simulation} {Innovation} {Strategy}},X,-,-,-,X
+{Desertesejo (2000/2014): {Notes} on the {Restoration} {Process}},X,-,-,-,X
+{Digital {Map} {Table} {VR}: {Bringing} an {Interactive} {System} to {Virtual} {Reality}},X,-,-,-,X
+{Enabling {Immunology} {Learning} in {Virtual} {Reality} {Through} {Storytelling} and {Interactivity}},X,-,-,-,X
+{Domain {Adaptation} {Through} {Synthesis} for {Unsupervised} {Person} {Re}-identification},X,-,-,-,X
+{{MinerGate}: {A} {Novel} {Generic} and {Accurate} {Defense} {Solution} {Against} {Web} {Based} {Cryptocurrency} {Mining} {Attacks}},X,-,-,-,X
+{Projection {Simulator} to {Support} {Design} {Development} of {Spherical} {Immersive} {Display}},X,-,-,-,X
+{Ora – {Save} the {Forest}! {Designing} a {Social} {Impact} {Game}},X,-,-,-,X
+{Usability of the {Virtual} {Agent} {Interaction} {Framework}},X,-,-,-,X
+{Undergraduate {Research} {Opportunities} in {OSS}},-,-,-,-,X
+{“{Keep} {What} {You}’ve {Earned}”: {Encouraging} {Sailors} to {Drink} {Responsibly}},X,-,-,-,X
+{Multiuser {Virtual} {Reality} for {Designing} and {Editing} {3D} {Models}},-,-,-,-,X
+{{VLC}-{Enabled} {Human}-{Aware} {Building} {Management} {System}},X,-,-,-,X
+{An {Interactive} {Cognitive}-{Motor} {Training} {System} for {Children} with {Intellectual} {Disability}},X,-,-,-,X
+{Future {Trends} in {Game} {Authoring} {Tools}},X,-,-,-,-
+{{VIGOR}: {Virtual} {Interaction} with {Gravitational} {Waves} to {Observe} {Relativity}},-,-,-,-,X
+{Towards {Biomedical} {Problem} {Solving} in a {Game} {Environment}},X,-,-,-,X
+{New {Interaction} {Concepts} by {Using} the {Wii} {Remote}},-,-,-,-,X
+{Domain {Adaptive} {Semantic} {Segmentation} {Through} {Structure} {Enhancement}},X,-,-,-,X
+{Interactive {Narrative} in {Augmented} {Reality}: {An} {Extended} {Reality} of the {Holocaust}},X,-,-,-,X
+{Understanding and {Improving} {Collaborative} {Skills} {Among} {Individuals} with {ASD} in a {Distributed} {Virtual} {Environment}},X,-,-,-,X
+{Touching the {Void} {Revisited}: {Analyses} of {Touch} {Behavior} on and above {Tabletop} {Surfaces}},X,-,-,-,X
+{Usability {Enhancement} and {Functional} {Extension} of a {Digital} {Tool} for {Rapid} {Assessment} of {Risk} for {Autism} {Spectrum} {Disorders} in {Toddlers} {Based} on {Pilot} {Test} and {Interview} {Data}},-,-,-,-,X
+{The {Design} {Considerations} of a {Virtual} {Reality} {Application} for {Heart} {Anatomy} and {Pathology} {Education}},X,-,-,-,X
+{Evaluation of {Autonomous} {Approaches} {Using} {Virtual} {Environments}},X,-,-,-,X
+{The {APEX} {Framework}: {Prototyping} of {Ubiquitous} {Environments} {Based} on {Petri} {Nets}},X,-,-,-,X
+{Distributed {Unity} {Applications}},-,-,-,-,X
+{E-{Learning} of {IT} {Security} {Threats}: {A} {Game} {Prototype} for {Children}},X,-,-,-,X
+{Interface {Design} to {Support} {Situation} {Awareness} in {Virtual} {Puppetry}},X,-,-,-,X
+{Emotional {Intelligent} {Contents}: {Expressing} {User}’s {Own} {Emotion} within {Contents}},X,-,-,-,X
+{Virtual {Display} of {3D} {Computational} {Human} {Brain} {Using} {Oculus} {Rift}},-,-,-,-,X
+{Recovery {Prediction} in the {Framework} of {Cloud}-{Based} {Rehabilitation} {Exergame}},X,-,-,-,X
+{Head-{Mounted} {Displays} in {Industrial} {AR}-{Applications}: {Ready} for {Prime} {Time}?},X,-,-,-,X
+{The {Performance} of {Self} in the {Context} of {Shopping} in a {Virtual} {Dressing} {Room} {System}},X,-,-,-,X
+{A {Grammar}-{Based} {Framework} for {Rehabilitation} {Exergames}},-,-,-,-,X
+{Sense of {Presence} and {Metacognition} {Enhancement} in {Virtual} {Reality} {Exposure} {Therapy} in the {Treatment} of {Social} {Phobias} and the {Fear} of {Flying}},X,-,-,-,X
+{Applying {Virtual} {Reality} in {City} {Planning}},X,-,-,-,X
+{From {CAVE2TM} to {Mobile}: {Adaptation} of {Hearts} and {Minds} {Virtual} {Reality} {Project} {Interaction}},-,-,-,-,X
+{Simulation of a {Motivated} {Learning} {Agent}},-,-,-,-,X
+{Simulation of {Reconfigurable} {Assembly} {Cells} with {Unity3D}},-,-,-,-,X
+{Song of {Red} {Pine} {Woods} - {Design} and {Study} of {Digital} {Picture} {Books} for {Preschool} {Children} on {iPad}},X,-,-,-,X
+{{SMART} {VIEW}: {A} {Serious} {Game} {Supporting} {Spatial} {Orientation} of {Subjects} with {Cognitive} {Impairments}},X,-,-,-,X
+{Mixed {Reality} and {Volumetric} {Video} in {Cultural} {Heritage}: {Expert} {Opinions} on {Augmented} and {Virtual} {Reality}},X,-,-,-,X
+{From {Cyber}-{Security} {Deception} to {Manipulation} and {Gratification} {Through} {Gamification}},X,-,-,-,X
+{Revolutionizing the {Visual} {Design} of {Capture} the {Flag} ({CTF}) {Competitions}},-,-,-,-,X
+{{DCAN}: {Dual} {Channel}-{Wise} {Alignment} {Networks} for {Unsupervised} {Scene} {Adaptation}},X,-,-,-,X
+{Design and {Evaluation} of {Three} {Interaction} {Models} for {Manipulating} {Internet} of {Things} ({IoT}) {Devices} in {Virtual} {Reality}},X,-,-,-,X
+{Co-design of a {Virtual} {Training} {Tool} with {Emergency} {Management} {Stakeholders} for {Extreme} {Weather} {Response}},X,-,-,-,X
+{{3D} {Interaction} for {Computer} {Science} {Educational} {VR} {Game}},-,-,-,-,X
+{Measuring {Latency} in {Virtual} {Reality} {Systems}},X,-,-,-,X
+{{VoTrE}: {A} {Vocational} {Training} and {Evaluation} {System} to {Compare} {Training} {Approaches} for the {Workplace}},X,-,-,-,X
+{A {Novel} {3D} {Wheelchair} {Simulation} {System} for {Training} {Young} {Children} with {Severe} {Motor} {Impairments}},X,-,-,-,X
+{The {Visual} {Design} and {Implementation} of an {Embodied} {Conversational} {Agent} in a {Shared} {Decision}-{Making} {Context} ({eCoach})},X,-,-,-,X
+{Initial {Evaluation} of a {Modern} {Augmented} {Reality} {Display} for {Deployable} {Embedded} {Training} {System}},X,-,-,-,X
+{Application of {Virtual} {Environments} for {Infantry} {Soldier} {Skills} {Training}: {We} are {Doing} it {Wrong}},X,-,-,-,X
+{Strategies for {Inclusive} {End}-{User} {Co}-{Creation} of {Inclusive} {Storytelling} {Games}},X,-,-,-,X
+{Responses during {Facial} {Emotional} {Expression} {Recognition} {Tasks} {Using} {Virtual} {Reality} and {Static} {IAPS} {Pictures} for {Adults} with {Schizophrenia}},X,-,-,-,X
+{Bio-reckoning: {Perceptual} {User} {Interface} {Design} for {Military} {Training}},X,-,-,-,X
+{Tourism and {Virtual} {Reality}: {User} {Experience} {Evaluation} of a {Virtual} {Environment} {Prototype}},X,-,-,-,X
+{Live {Probabilistic} {Editing} for {Virtual} {Cinematography}},X,-,-,-,X
+{Enhancing {Independent} {Auditory} and {Speechreading} {Training} – {Two} {Finnish} {Free} {Mobile} {Applications} {Constructed} for {Deaf} and {Hard} of {Hearing} {Children} and {Adults}},X,-,-,-,X
+{Oculus {Rift} {Versus} {HTC} {Vive}: {Usability} {Assessment} from a {Teleportation} {Task}},X,-,-,-,X
+{Effective and {Efficient} {Tracking} and {Ego}-{Motion} {Recovery} for {Mobile} {Cameras}},X,-,-,-,X
+{{HCI} {Prototyping} and {Modeling} of {Future} {Psychotherapy} {Technologies} in {Second} {Life}},X,-,-,-,X
+{Virtual {Personas}: {A} {Case} {Study} on {Truck} {Cabin} {Design}},X,-,-,-,X
+{Multi-platform {Semantic} {Representation} of {Interactive} {3D} {Content}},X,-,-,-,X
+{{ADITHO} – {A} {Serious} {Game} for {Training} and {Evaluating} {Medical} {Ethics} {Skills}},X,-,-,-,X
+{{3D} {Virtual} {Worlds}: {An} {Ethnography} of {Key} {Artifacts} and {Processes}},X,-,-,-,X
+{Investigating the {Effect} of {Different} {Autonomy} {Levels} on {User} {Acceptance} and {User} {Experience} in {Self}-driving {Cars} with a {VR} {Driving} {Simulator}},X,-,-,-,X
+{Virtual {Dome} {System} {Using} {HMDs}: {An} {Alternative} to the {Expensive} and {Less} {Accessible} {Physical} {Domes}},X,-,-,-,X
+{Assembly of the {Virtual} {Model} with {Real} {Hands} {Using} {Augmented} {Reality} {Technology}},-,-,-,-,X
+{An {Empirical} {Investigation} of {Gaze} {Selection} in {Mid}-{Air} {Gestural} {3D} {Manipulation}},X,-,-,-,X
+{A {Mobile} {Game} {Controller} {Adapted} to the {Gameplay} and {User}’s {Behavior} {Using} {Machine} {Learning}},X,-,-,-,X
+{A {Study} on the {Design} of {Augmented} {Reality} {User} {Interfaces} for {Mobile} {Learning} {Systems} in {Heritage} {Temples}},X,-,-,-,X
+{A {Case} {Study} on {Using} {RTF} for {Developing} {Multi}-player {Online} {Games}},X,-,-,-,X
+{Going to a {Virtual} {Supermarket}: {Comparison} of {Different} {Techniques} for {Interacting} in a {Serious} {Game} for the {Assessment} of the {Cognitive} {Status}},X,-,-,-,X
+{Evaluation of {Information} {Visualization} {Interaction} {Techniques} {Using} {Gestures} and {Widgets} in {3D} {Environments}},X,-,-,-,X
+{Digital {Empathic} {Games} and {Their} {Relation} with {Mortality}: {Analysis} of {Discussion} {Forums}},X,-,-,-,X
+{{MoCap}-{Based} {Adaptive} {Human}-{Like} {Walking} {Simulation} in {Laser}-{Scanned} {Large}-{Scale} as-{Built} {Environments}},X,-,-,-,X
+{Augmented {Reality} {Based} {Guidance} for {Solving} {Rubik}’s {Cube} {Using} {HMD}},X,-,-,-,X
+{Pictures at an {Exhibition}: {Design} of a {Hybrid} {Puppetry} {Performance} {Piece}},X,-,-,-,X
+{Design of a {Virtual} {Reality} {Driving} {Environment} to {Assess} {Performance} of {Teenagers} with {ASD}},-,-,-,-,X
+{Robust {Hybrid} {Tracking} with {Life}-{Size} {Avatar} in {Mixed} {Reality} {Environment}},X,-,-,-,X
+{An {After} {Action} {Review} {Engine} for {Training} in {Multiple} {Areas}},X,-,-,-,X
+{Immersive {Telepresence} {Framework} for {Remote} {Educational} {Scenarios}},X,-,-,-,X
+{Effective {Use} of {Synthetic} {Data} for {Urban} {Scene} {Semantic} {Segmentation}},X,-,-,-,X
+{Serious {Game} for the {Evaluation} of {Cognitive} {Function} of {Kids}},X,-,-,-,X
+{Multimodal {Head}-{Mounted} {Virtual}-{Reality} {Brain}-{Computer} {Interface} for {Stroke} {Rehabilitation}},X,-,-,-,X
+{A {New} {Visualization} {Approach} to {Re}-{Contextualize} {Indigenous} {Knowledge} in {Rural} {Africa}},-,-,-,-,X
+{A {New} {Chess} {Variant} for {Gaming} {AI}},X,-,-,-,X
+{Brain {eRacing}: {An} {Exploratory} {Study} on {Virtual} {Brain}-{Controlled} {Drones}},X,-,-,-,X
+{Geppetto: {An} {Environment} for the {Efficient} {Control} and {Transmission} of {Digital} {Puppetry}},-,-,-,-,X
+{Full-{Body} {Portable} {Virtual} {Reality} for {Personal} {Protective} {Equipment} {Training}},X,-,-,-,X
+{A {Virtual} {Kitchen} for {Cognitive} {Rehabilitation} of {Alzheimer} {Patients}},X,-,-,-,X
+{Fighting {Technology} {Dumb} {Down}: {Our} {Cognitive} {Capacity} for {Effortful} {AR} {Navigation} {Tools}},X,-,-,-,X
+{Haptic {Guidance} for {Teleoperation}: {Optimizing} {Performance} and {User} {Experience}},X,-,-,-,X
+{Low-{Cost} {Mixed} {Reality} {Simulator} for {Industrial} {Vehicle} {Environments}},X,-,-,-,X
+{Design of a {Novel} {Web} {Utility} that {Provides} {Multi}-lingual {Word} {Definitions} for {Child} {E}-{Book} {Applications}},X,-,-,-,X
+{\$\${\textbackslash}delta \$\$-logit : {Dynamic} {Difficulty} {Adjustment} {Using} {Few} {Data} {Points}},X,-,-,-,-
+{Balancing {Act}: {Enabling} {Public} {Engagement} with {Sustainability} {Issues} through a {Multi}-touch {Tabletop} {Collaborative} {Game}},X,-,-,-,X
+{Rapid {Prototyping} for {Mobile} {Serious} {Games}},X,-,-,-,X
+{Assembly {Training}: {Comparing} the {Effects} of {Head}-{Mounted} {Displays} and {Face}-to-{Face} {Training}},X,-,-,-,X
+{{RoboCup} 2012 {Rescue} {Simulation} {League} {Winners}},X,-,-,-,X
+{Applying {Social} {Gamification} in a {Gamified} {Point} {System}},X,-,-,-,X
+{The {Museum} {Guidance} {System} in {Gamification} {Design}},X,-,-,-,X
+{Introducing an {Edge}-{Native} {Deep} {Learning} {Platform} for {Exergames}},X,-,-,-,X
+{Comparing {Objective} and {Subjective} {Metrics} {Between} {Physical} and {Virtual} {Tasks}},X,-,-,-,X
+{Body {Ownership} of {Virtual} {Avatars}: {An} {Affordance} {Approach} of {Telepresence}},X,-,-,-,X
+{Improved {Memory} {Elicitation} in {Virtual} {Reality}: {New} {Experimental} {Results} and {Insights}},X,-,-,-,X
+{Story {Envisioning} {Framework} for {Visualized} {Collective} {Storytelling} in {Conversation}},X,-,-,-,X
+{A {Multimodal} {Human}-{Computer} {Interaction} {System} and {Its} {Application} in {Smart} {Learning} {Environments}},X,-,-,-,X
+{Training {Effectiveness} {Evaluation}: {Call} for {Fire} {Trainer} – {Augmented} {Virtuality} ({CFFT}-{AV})},X,-,-,-,X
+{A {Card} {Playing} {Humanoid} for {Understanding} {Socio}-emotional {Interaction}},X,-,-,-,X
+"{Personalized {Support}, {Guidance}, and {Feedback} by {Embedded} {Assessment} and {Reasoning}: {What} {We} {Can} {Learn} from {Educational} {Computer} {Games}}",X,-,-,-,X
+{Trust in {Autonomous} {Systems} for {Threat} {Analysis}: {A} {Simulation} {Methodology}},X,-,-,-,X
+{A {Step} towards {Adaptive} {Multimodal} {Virtual} {Social} {Interaction} {Platform} for {Children} with {Autism}},X,-,-,-,X
+{On the {Potential} of {Using} {Virtual} {Reality} for {Teacher} {Education}},X,-,-,-,X
+{Client-{Side} {Adaptive} {Search} {Optimisation} for {Online} {Game} {Server} {Discovery}},X,-,-,-,X
+{Egocentric {Distance} {Perception} {Control} for {Direct} {Manipulation} {Interaction} on {HMD} {Platform}},-,-,-,-,X
+{A {Natural} {User} {Interface} for {Navigating} in {Organized} {3D} {Virtual} {Contents}},X,-,-,-,X
+{Maritime {City}: {Using} {Games} {Technology} to {Train} {Social} {Workers} – {Some} {Initial} {Results}},-,-,-,-,X
+{Interactive {Augmented} {Reality}: {A} {New} {Approach} for {Collaborative} {Learning}},-,-,-,-,X
+{1st {Workshop} on {Game} {Development} and {Model}-{Driven} {Software} {Development}},X,-,-,-,X
+{Body {Buddies}: {Social} {Signaling} through {Puppeteering}},-,-,-,-,X
+{Predicting and {Visualising} {City} {Noise} {Levels} to {Support} {Tinnitus} {Sufferers}},X,-,-,-,X
+{A {New} {Motion}-{Based} {Tool} for {Occupation} and {Monitoring} of {Residents} in {Nursing} {Homes}},X,-,-,-,X
+{Cyber {Security} {Training} and {Awareness} {Through} {Game} {Play}},X,-,-,-,X
+{Using {Augmented} {Reality} {Interactive} {System} to {Support} {Digital} {Electronics} {Learning}},X,-,-,-,X
+{Version {Control} {System} {Gamification}: {A} {Proposal} to {Encourage} the {Engagement} of {Developers} to {Collaborate} in {Software} {Projects}},X,-,-,-,X
+{Spheres of {Play}: {Designing} {Games} and {Interfaces} for {Media} {Architectures}},X,-,-,-,X
+{Yasmine’s {Adventures}: {An} {Interactive} {Urban} {Experience} {Exploring} the {Sociocultural} {Potential} of {Digital} {Entertainment}},-,-,-,-,X
+{A {Virtual} {Reality} {Driving} {Environment} for {Training} {Safe} {Gaze} {Patterns}: {Application} in {Individuals} with {ASD}},X,-,-,-,X
+{Research on {Application} of {Gesture} {Recognition} {Technology} in {Traditional} {Puppet} {Show}},X,-,-,-,X
+"{Augmented {Reality} in {Education}: {A} {Study} on {Preschool} {Children}, {Parents}, and {Teachers} in {Bangladesh}}",X,-,-,-,X
+"{A {Data}-{Driven} {Mobile} {Application} for {Efficient}, {Engaging}, and {Accurate} {Screening} of {ASD} in {Toddlers}}",X,-,-,-,X
+{Cognitive {Agents} for {Microscopic} {Traffic} {Simulations} in {Virtual} {Environments}},X,-,-,-,X
+{Entertainment {Computing} in the {Orbit}},X,-,-,-,X
+{Developing a {Human} {Behavior} {Simulation} {Technology} in the {Real}-{Time} {Manner} {Based} on {BIM}},X,-,-,-,X
+{Voice and {Speech} {Training} {System} for the {Hearing}-{Impaired} {Children} {Using} {Tablet} {Terminal}},X,-,-,-,X
+{Backend {Infrastructure} {Supporting} {Audio} {Augmented} {Reality} and {Storytelling}},X,-,-,-,X
+{Designing {Educational} {Virtual} {Environments} for {Construction} {Safety}: {A} {Case} {Study} in {Contextualizing} {Incident} {Reports} and {Engaging} {Learners}},X,-,-,-,X
+{{OpenFACS}: {An} {Open} {Source} {FACS}-{Based} {3D} {Face} {Animation} {System}},-,-,-,-,X
+{Xavier {Electromyographic} {Wheelchair} {Control} and {Virtual} {Training}},X,-,-,-,X
+"{Educational {Digital} {Games}: {A} {Theoretical} {Framework} {About} {Design} {Models}, {Learning} {Theories} and {User} {Experience}}",X,-,-,-,X
+{360 {Degree} {Mixed} {Reality} {Environment} to {Evaluate} {Interaction} {Design} for {Industrial} {Vehicles} {Including} {Head}-{Up} and {Head}-{Down} {Displays}},X,-,-,-,X
+{Developing a {VR} {Tool} to {Support} {Repeat} {Pattern} {Design} {Learning}},X,-,-,-,X
+{Play-{Personas}: {Behaviours} and {Belief} {Systems} in {User}-{Centred} {Game} {Design}},X,-,-,-,X
+{Educational: {3D} {Design} for {Mobile} {Augmented} {Reality}},-,-,-,-,X
+{Innovation in {Learning} – {The} {Use} of {Avatar} for {Sign} {Language}},X,-,-,-,X
+{Leveraging {Unencumbered} {Full} {Body} {Control} of {Animated} {Virtual} {Characters} for {Game}-{Based} {Rehabilitation}},X,-,-,-,X
+{Strategic {Path} {Planning} on the {Basis} of {Risk} vs. {Time}},X,-,-,-,X
+{Exer-{Learning} {Games}: {Transferring} {Hopscotch} from the {Schoolyard} to the {Classroom}},X,-,-,-,X
+{Future {Delta} {Motivating} {Climate} {Change} {Action} {Grounded} in {Place}},-,-,-,-,X
+{Flexible {Virtual} {Environments}: {Gamifying} {Immersive} {Learning}},X,-,-,-,X
+{A {Natural} {Interaction} {VR} {Environment} for {Surgical} {Instrumentation} {Training}},X,-,-,-,X
+{See the {Flex}: {Investigating} {Various} {Display} {Settings} for {Different} {Study} {Conditions}},X,-,-,-,X
+{Editor of {O} \& {M} {Virtual} {Environments} for the {Training} of {People} with {Visual} {Impairment}},X,-,-,-,X
+{Feasibility of {Wearable} {Fitness} {Trackers} for {Adapting} {Multimodal} {Communication}},X,-,-,-,X
+{Video {Gaming} for {Blind} {Learners} {School} {Integration} in {Science} {Classes}},X,-,-,-,X
+{Leaving {Hints}: {Using} {Player} {In}-{Game} {Hints} to {Measure} and {Improve} {Learning}},-,-,-,-,X
+{Hand {Tracking} and {Haptic}-{Based} {Jugular} {Neonate} {Central} {Venous} {Access} {Procedure}},-,-,-,-,X
+{Open {City} {Museum}: {Unveiling} the {Cultural} {Heritage} of {Athens} {Through} an -{Augmented} {Reality} {Based}- {Time} {Leap}},X,-,-,-,X
+{{UX} {Aspects} of {Kinect}-{Based} {Movement} {Schemes} {Inside} {Virtual} {Environments} for {Museum} {Installations}},X,-,-,-,X
+{The {Effects} of {Body} {Gestures} and {Gender} on {Viewer}’s {Perception} of {Animated} {Pedagogical} {Agent}’s {Emotions}},X,-,-,-,X
+{Immersive {Virtual} {Reality} {Environment} to {Test} {Interface} of {Advanced} {Driver} {Assistance} {Systems} for {Elder} {Driver}},X,-,-,-,X
+{Taking {Neuropsychological} {Test} to the {Next} {Level}: {Commercial} {Virtual} {Reality} {Video} {Games} for the {Assessment} of {Executive} {Functions}},X,-,-,-,X
+{Cutscenes in {Computer} {Games} as an {Information} {System}},X,-,-,-,X
+{User {Interface} and {Interaction} {Design} in {Future} {Auto}-{Mobility}},X,-,-,-,X
+{Collaborative {Serious} {Games} for {Awareness} on {Shared} {Resources} in {Supply} {Chain} {Management}},X,-,-,-,X
+{Could {People} with {Stereo}-{Deficiencies} {Have} a {Rich} {3D} {Experience} {Using} {HMDs}?},X,-,-,-,X
+{Multiuser {Collaborative} {Exploration} of {Immersive} {Photorealistic} {Virtual} {Environments} in {Public} {Spaces}},X,-,-,-,X
+{Gamification {Techniques} for {Raising} {Cyber} {Security} {Awareness}},X,-,-,-,X
+{Mixed {Realities} – {Virtual} {Object} {Lessons}},X,-,-,-,X
+{Tapology: {A} {Game}-{Based} {Platform} to {Facilitate} {E}-{Health} and {E}-{Inclusion}},X,-,-,-,X
+{Movement-{Free} {Virtual} {Reality} {Interface} {Using} {Kinesthetic} {Illusion} {Induced} by {Tendon} {Vibration}},X,-,-,-,X
+{{FedGrid}: {An} {HLA} {Approach} to {Federating} {Grids}},-,-,-,-,X
+{A {Haptic} {Virtual} {Kitchen} for the {Cognitive} {Empowerment} of {Children} with {Autism} {Spectrum} {Disorder}},-,-,-,-,X
+{Optimal {User} {Interface} {Parameters} for {Dual}-{Sided} {Transparent} {Screens} in {Layered} {Window} {Conditions}},X,-,-,-,X
+{Sound {Clay}: {An} {Immersive} {Art} {Form} by {Sculpting} {Clay} and {Sound}},-,-,-,-,X
+"{Safety {Does} {Not} {Happen} by {Accident}, {Can} {Gaming} {Help} {Improve} {Occupational} {Health} and {Safety} in {Organizations}?}",X,-,-,-,X
+{Fourier-{Information} {Duality} in the {Identity} {Management} {Problem}},X,-,-,-,X
+{Using {Immersive} {Virtual} {Reality} {Serious} {Games} for {Vocational} {Rehabilitation} of {Individuals} with {Physical} {Disabilities}},X,-,-,-,X
+"{Semantic {Representation} {Analysis}: {A} {General} {Framework} for {Individualized}, {Domain}-{Specific} and {Context}-{Sensitive} {Semantic} {Processing}}",X,-,-,-,X
+{{ToBI} - {Team} of {Bielefeld} {Enhancing} the {Robot} {Capabilities} of the {Social} {Standard} {Platform} {Pepper}},X,-,-,-,X
+{Proposal of {Evacuation} {Support} {System} and {Evaluation} by {Multi}-agent {Simulation} in a {Regional} {Disaster}},X,-,-,-,X
+{Interactive {Training} and {Operation} {Ecosystem} for {Surgical} {Tasks} in {Mixed} {Reality}},X,-,-,-,X
+{A {Framework} for {Accessibility} in {XR} {Environments}},X,-,-,-,X
+{Human {Considerations} in the {Application} of {Cognitive} {Decision} {Models} for {HRI}},X,-,-,-,X
+{Virtual {Reality} {Based} {Assessment} of {Static} {Object} {Visual} {Search} in {Ocular} {Compared} to {Cerebral} {Visual} {Impairment}},X,-,-,-,X
+"{Three {Apps} for {Shooting} {Sports}: {The} {Design}, {Development}, and {Deployment}}",X,-,-,-,X
+{A {Model}-{Driven} {Engineering} {Approach} for {Immersive} {Mixed}-{Reality} {Environments}},X,-,-,-,X
+{Eureka: {Realizing} {That} an {Application} is {Responding} to {Your} {Brainwaves}},X,-,-,-,X
+{Testing {Ambient} {Assisted} {Living} {Solutions} with {Simulations}},-,-,-,-,X
+{Designing {Unconscious} and {Enactive} {Interaction} for {Interactive} {Movie} {Experience}},X,-,-,-,X
+{A {Natural} {Interface} for the {Training} of {Medical} {Personnel} in an {Immersive} and {Virtual} {Reality} {System}},-,-,-,-,X
+{Gaming after {Dark}},X,-,-,-,X
+{Give {MEANinGS} to {Robots} with {Kitchen} {Clash}: {A} {VR} {Human} {Computation} {Serious} {Game} for {World} {Knowledge} {Accumulation}},X,-,-,-,X
+{Why {Can}’t a {Virtual} {Character} {Be} {More} {Like} a {Human}: {A} {Mixed}-{Initiative} {Approach} to {Believable} {Agents}},X,-,-,-,X
+{Integration of an {Exocentric} {Orthogonal} {Coplanar} 360 {Degree} {Top} {View} in a {Head} {Worn} {See}-{Through} {Display} {Supporting} {Obstacle} {Awareness} for {Helicopter} {Operations}},X,-,-,-,X
+{Employing a {User}-{Centered} {Design} {Process} to {Create} a {Multiplayer} {Online} {Escape} {Game} for {Older} {Adults}},X,-,-,-,X
+{Effects of {Instruction} {Methods} on {User} {Experience} in {Virtual} {Reality} {Serious} {Games}},X,-,-,-,X
+{On {Addressing} the {Challenges} of {Complex} {Stochastic} {Games} {Using} “{Representative}” {Moves}},X,-,-,-,X
+{Interacting with {Intelligent} {Digital} {Twins}},X,-,-,-,X
+{Real-{Time} {Static} {Gesture} {Recognition} for {Upper} {Extremity} {Rehabilitation} {Using} the {Leap} {Motion}},X,-,-,-,X
+{Use of {Virtual} {Reality} and {Human}-{Computer} {Interface} for {Diagnostic} and {Treatment} {Purposes} in {Human} {Sexuality} {Research}},X,-,-,-,X
+"{Do {You} {Eat} {This}? {Changing} {Behavior} {Through} {Gamification}, {Crowdsourcing} and {Civic} {Engagement}}",X,-,-,-,X
+{Video {Game} {Design} for {Mobile} {Phones}},-,-,-,-,X
+{Humor {Techniques}: {From} {Real} {World} and {Game} {Environments} to {Smart} {Environments}},X,-,-,-,X
+{Lessons from {Practicing} an {Adapted} {Model} {Driven} {Approach} in {Game} {Development}},X,-,-,-,X
+{Beats {Down}: {Using} {Heart} {Rate} for {Game} {Interaction} in {Mobile} {Settings}},X,-,-,-,X
+{An {Introduction} to {Human} {Computation} and {Games} with a {Purpose}},X,-,-,-,X
+{An {Immersive} {Brain} {Painting}: {The} {Effects} of {Brain} {Painting} in a {Virtual} {Reality} {Environment}},X,-,-,-,X
+{Involving {Engineers} in {User} {Research} and {User} {Experience} {Design} of {ICT} for {China}},X,-,-,-,X
+{Ludic {Educational} {Game} {Creation} {Tool}: {Teaching} {Schoolers} {Road} {Safety}},X,-,-,-,X
+{A {Systems} {Approach} for {Augmented} {Reality} {Design}},X,-,-,-,X
+{Usability {Evaluation} of a {Wheelchair} {Virtual} {Simulator} {Controlled} by a {Brain}-{Computer} {Interface}: {Lessons} {Learned} to the {Design} {Process}},X,-,-,-,X
+{A {Framework} {Concept} for {Emotion} {Enriched} {Interfaces}},X,-,-,-,X
+{A {Feature}-{Based} {Approach} to {Develop} {Digital} {Board} {Games}},X,-,-,-,X
+{Using {Behavioral} {Indicators} to {Assess} {Competences} in a {Sustainable} {Manufacturing} {Learning} {Scenario}},X,-,-,-,X
+{Design of a {Robotic} {Workmate}},X,-,-,-,X
+{Virtual {Reality} {Training} to {Enhance} {Motor} {Skills}},X,-,-,-,X
+{Optimizing {Virtual} {Reality} {Eye} {Tracking} {Fixation} {Algorithm} {Thresholds} {Based} on {Shopper} {Behavior} and {Age}},X,-,-,-,X
+{What {Makes} for {Successful} {Game} {Storytelling}? {A} {Model} for {Evaluating} {Game}-{Adaptability} of {Stories} in {China}},X,-,-,-,X
+{Brain {Controlled} {Interface} {Log} {Analysis} in {Real} {Time} {Strategy} {Game} {Matches}},X,-,-,-,X
+{Eye {Contact}: {Gaze} as a {Connector} {Between} {Spectators} and {Players} in {Online} {Games}},X,-,-,-,X
+{Persistent {Human} {Control} in a {Reservation}-{Based} {Autonomous} {Intersection} {Protocol}},X,-,-,-,X
+{Comparison of {Pedestrians}’ {Gap} {Acceptance} {Behavior} {Towards} {Automated} and {Human}-{Driven} {Vehicles}},X,-,-,-,X
+{From {Usability} to {Playability}: {Introduction} to {Player}-{Centred} {Video} {Game} {Development} {Process}},X,-,-,-,X
+{Examination of {Effectiveness} of a {Performed} {Procedural} {Task} {Using} {Low}-{Cost}  {Peripheral} {Devices} in {VR}},X,-,-,-,X
+{Hoverboard: {A} {Leap} to the {Future} of {Locomotion} in {VR}!?},X,-,-,-,X
+{Augmented {Reality} for {City} {Planning}},X,-,-,-,X
+{{STEAM}-{X}: {An} {Exploratory} {Study} {Adding} {Interactive} {Physical} {Activity} to the {STEAM} {Model}},X,-,-,-,X
+{A {Multitouch} {Drawing} {Application} with {Occlusion}-{Free} {Interaction} {Strategies}},X,-,-,-,X
+{Touchless {Text} {Entry} for {All}: {Initial} {Design} {Considerations} and {Prototypes}},X,-,-,-,X
+{A {Collaborative} {Virtual} {Game} to {Support} {Activity} and {Social} {Engagement} for {Older} {Adults}},X,-,-,-,X
+{An {Immersive} {Virtual} {Reality} {Exergame} for {People} with {Parkinson}’s {Disease}},X,-,-,-,X
+{A {Novel} {Mixed} {Reality} {Navigation} {System} for {Laparoscopy} {Surgery}},X,-,-,-,X
+{Virtual {Reality} {Interaction} {Techniques} for {Individuals} with {Autism} {Spectrum} {Disorder}},X,-,-,-,X
+"{Creating an {Online} {Escape} {Room} {Game} for {Older} {Adults}: {Needs} {Assessment}, {Design} {Process}, and {Usability} {Testing}}",X,-,-,-,X
+{An {Indirect} {Measure} of the {Implicit} {Level} of {Presence} in {Virtual} {Environments}},X,-,-,-,X
+{A {Game}-like {Application} for {Dance} {Learning} {Using} a {Natural} {Human} {Computer} {Interface}},X,-,-,-,X
+{A {Method} of {Evaluating} {User} {Visual} {Attention} to {Moving} {Objects} in {Head} {Mounted} {Virtual} {Reality}},X,-,-,-,X
+{Segmentation of {Areas} of {Interest} {Inside} a {Virtual} {Reality} {Store}},X,-,-,-,X
+{Methodology for {Detection} of {ERD}/{ERS} {EEG} {Patterns} {Produced} by {Cut} {Events} in {Film} {Fragments}},X,-,-,-,X
+{Designing {Affordances} for {Virtual} {Reality}-{Based} {Services} with {Natural} {User} {Interaction}},X,-,-,-,X
+{User {Experience} and {Map} {Design} for {Wayfinding} in a {Virtual} {Environment}},X,-,-,-,X
+{Methodology for {Detection} of {ERD}/{ERS} {EEG} {Patterns} {Produced} by {Cut} {Events} in {Film} {Fragments}},X,-,-,X,X
+{From {Usability} to {Playability}: {Introduction} to {Player}-{Centred} {Video} {Game} {Development} {Process}},X,-,-,X,X
+{Segmentation of {Areas} of {Interest} {Inside} a {Virtual} {Reality} {Store}},X,-,-,X,X
+{An {Indirect} {Measure} of the {Implicit} {Level} of {Presence} in {Virtual} {Environments}},X,-,-,X,X
+{A {Multitouch} {Drawing} {Application} with {Occlusion}-{Free} {Interaction} {Strategies}},X,-,-,X,X
+{Comparison of {Pedestrians}’ {Gap} {Acceptance} {Behavior} {Towards} {Automated} and {Human}-{Driven} {Vehicles}},X,-,-,X,X
+{A {Game}-like {Application} for {Dance} {Learning} {Using} a {Natural} {Human} {Computer} {Interface}},X,-,-,X,X
+{A {Novel} {Mixed} {Reality} {Navigation} {System} for {Laparoscopy} {Surgery}},X,-,-,X,X
+{{STEAM}-{X}: {An} {Exploratory} {Study} {Adding} {Interactive} {Physical} {Activity} to the {STEAM} {Model}},X,-,-,X,X
+{Augmented {Reality} for {City} {Planning}},X,-,-,X,X
+"{Creating an {Online} {Escape} {Room} {Game} for {Older} {Adults}: {Needs} {Assessment}, {Design} {Process}, and {Usability} {Testing}}",X,-,-,X,X
+{User {Experience} and {Map} {Design} for {Wayfinding} in a {Virtual} {Environment}},X,-,-,X,X
+{A {Collaborative} {Virtual} {Game} to {Support} {Activity} and {Social} {Engagement} for {Older} {Adults}},X,-,-,X,X
+{Designing {Affordances} for {Virtual} {Reality}-{Based} {Services} with {Natural} {User} {Interaction}},X,-,-,X,X
+{Touchless {Text} {Entry} for {All}: {Initial} {Design} {Considerations} and {Prototypes}},X,-,-,X,X
+{Hoverboard: {A} {Leap} to the {Future} of {Locomotion} in {VR}!?},X,-,-,X,X
+{Virtual {Reality} {Interaction} {Techniques} for {Individuals} with {Autism} {Spectrum} {Disorder}},X,-,-,X,X
+{An {Immersive} {Virtual} {Reality} {Exergame} for {People} with {Parkinson}’s {Disease}},X,-,-,X,X
+{Examination of {Effectiveness} of a {Performed} {Procedural} {Task} {Using} {Low}-{Cost}  {Peripheral} {Devices} in {VR}},X,-,-,X,X
+{A {Method} of {Evaluating} {User} {Visual} {Attention} to {Moving} {Objects} in {Head} {Mounted} {Virtual} {Reality}},X,-,-,X,X
+{Bridging {Conceptual} {Models} and {Architectural} {Interchange} for {Adaptive} {Instructional} {Systems}},X,-,-,-,X
+{Remote {Touch}: {Humanizing} {Social} {Interactions} in {Technology} {Through} {Multimodal} {Interfaces}},X,-,-,-,X
+{Can {Virtual} {Humans} {Be} {More} {Engaging} {Than} {Real} {Ones}?},X,-,-,-,X
+{Dementia: {I} {Am} {Physically} {Fading}. {Can} {Virtual} {Reality} {Help}? {Physical} {Training} for {People} with {Dementia} in {Confined} {Mental} {Health} {Units}},X,-,-,-,X
+{Modding as {Rating} {Behavior} in {Virtual} {Communities}: {The} {Case} of {Rooster} {Teeth} {Productions}},-,-,-,-,X
+{E-{Learning} and {Serious} {Games}},X,-,-,-,X
+{A {Novel} {Virtual} {Reality} {Driving} {Environment} for {Autism} {Intervention}},X,-,-,-,X
+{Hang in {There}: {A} {Novel} {Body}-{Centric} {Interactive} {Playground}},X,-,-,-,X
+{Utilizing {Digital} {Game} {Environments} for {Training} {Prosthetic} {Use}},X,-,-,-,X
+{Virtual {Business} {Role}-{Play}: {Leveraging} {Familiar} {Environments} to {Prime} {Stakeholder} {Memory} {During} {Process} {Elicitation}},X,-,-,-,X
+{The {Design} of an {Interactive} {Stroke} {Rehabilitation} {Gaming} {System}},X,-,-,-,X
+{Deriving {Features} for {Designing} {Ambient} {Media}},X,-,-,-,X
+{Quantitative {Modal} {Transition} {Systems}},X,-,-,-,X
+{Validation of a {Sorting} {Task} {Implemented} in the {Virtual} {Multitasking} {Task}-2 and {Effect} of {Aging}},-,-,-,-,X
+{Investigating {Visitor} {Engagement} in {Interactive} {Science} {Museum} {Exhibits} with {Multimodal} {Bayesian} {Hierarchical} {Models}},X,-,-,-,X
+{A {Reliable} and {Inexpensive} {Integration} of {Virtual} {Reality} and {Digital} {Human} {Modelling} to {Estimate} {Cervical} {Spine} {Function}},X,-,-,-,X
+{“{I} {Went} to {America} to {See} {Ancient} {Italian} {Paintings}”: {The} {Problem} of the {Re}-contextualization of {Artworks} {Uprooted} from {Their} {Original} {Settings}},X,-,-,-,X
+{{3D} {Virtual} {World} {BPM} {Training} {Systems}: {Process} {Gateway} {Experimental} {Results}},X,-,-,-,X
+{Interaction {Techniques} for {Immersive} {CT} {Colonography}: {A} {Professional} {Assessment}},X,-,-,-,X
+{Cooperative {Robotic} {Gamma} {Imaging}: {Enhancing} {US}-guided {Needle} {Biopsy}},X,-,-,-,X
+{Exploring {Cultural} {Heritage} {Using} {Augmented} {Reality} {Through} {Google}’s {Project} {Tango} and {ARCore}},X,-,-,-,X
+{Three {Technologies} for {Automated} {Trading}},X,-,-,-,X
+{A {Computerized} {Measurement} of {CROM} ({Cervical} {Range} of {Motion}) by {Using} {Smartphone} {Based} {HMD} ({Head} {Mounted} {Display})},X,-,-,-,X
+"{Total {Immersion}: {Designing} for {Affective} {Symbiosis}  in a {Virtual} {Reality} {Game} with {Haptics}, {Biosensors},  and {Emotive} {Agents}}",X,-,-,-,X
+{{PaolaChat}: {A} {Virtual} {Agent} with {Naturalistic} {Breathing}},X,-,-,-,X
+{An {Immersive} {Virtual} {Reality} {Experience} for {Learning} {Spanish}},X,-,-,-,X
+{Affective {Communication} {Enhancement} {System} for {Locked}-{In} {Syndrome} {Patients}},X,-,-,-,X
+{Yuri {Game}: {Romance} and {Characterization} in {Gameplay}},X,-,-,-,X
+{Modelling {Playful} {User} {Interfaces} for {Hybrid} {Games}},X,-,-,-,X
+{Evaluating {Hedonic} and {Eudaimonic} {Motives} in {Human}-{Computer} {Interaction}},X,-,-,-,X
+{Generating {Training} {Images} {Using} a {3D} {City} {Model} for {Road} {Sign} {Detection}},X,-,-,-,X
+{Pedagogical-{Agent} {Learning} {Companions} in a {Virtual} {Reality} {Educational} {Experience}},X,-,-,-,X
+{Weapon {Detection} for {Particular} {Scenarios} {Using} {Deep} {Learning}},-,-,-,-,X
+{Gesture-{Based} Ιnteraction: {Visual} {Gesture} {Mapping}},X,-,-,-,X
+{Guidance {Is} {Good} or {Avoid} {Too} {Much} {Hand}-{Holding}? {Proposing} a {Controlled} {Experiment} on the {Impact} of {Clear} {Proximal} {Goals} on {Digital} {Game} {Enjoyment}},X,-,-,-,X
+{{CHARM}: {Cord}-{Based} {Haptic} {Augmented} {Reality} {Manipulation}},X,-,-,-,X
+{{RICHIE}: {A} {Step}-by-step {Navigation} {Widget} to {Enhance} {Broad} {Hierarchy} {Exploration} on {Handheld} {Tactile} {Devices}},X,-,-,-,X
+{A {Serious}-{Game} {Framework} to {Improve} {Physician}/{Nurse} {Communication}},X,-,-,-,X
+{Development of a {Digital} {Platform} {Based} on the {Integration} of {Augmented} {Reality} and {BIM} for the {Management} of {Information} in {Construction} {Processes}},X,-,-,-,-
+{Hampa: {Solver}-{Aided} {Recency}-{Aware} {Replication}},X,-,-,-,-
+{Towards {Co}-designing with {Users}: {A} {Mixed} {Reality} {Tool} for {Kansei} {Engineering}},-,-,-,-,X
+{Kinect-{Sign}: {Teaching} {Sign} {Language} to “{Listeners}” through a {Game}},X,-,-,-,-
+{Innovative {Educational} {Technology} for {Special} {Education} and {Usability} {Issues}},X,-,-,-,-
+{User {Perceptions} of a {Virtual} {Human} {Over} {Mobile} {Video} {Chat} {Interactions}},X,-,-,-,-
+{A {Game} {System} for {Learning} {Mathematics} with {Pacing} {Considering} {Individual} {Motivation} and {Feeling}},X,-,-,-,-
+{{EEG}-{Based} {Personalized} {Digital} {Experience}},X,-,-,-,-
+{Exploring {Deep} {Content} in {Physical} {Rehabilitation} {Games}},X,-,-,-,-
+{Towards a {Mixed} {Reality} {Assistance} {System} for the {Inspection} {After} {Final} {Car} {Assembly}},X,-,-,-,-
+{Can {Virtual} {Reality} {Increase} {Emotional} {Responses} ({Arousal} and {Valence})? {A} {Pilot} {Study}},X,-,-,-,-
+{What to {Be} {Disclosed}? {Attributes} of {Online} {Games} for the {Market} {Transparency} {Policy}},X,-,-,-,-
+{Interactive {Point} {System} {Supporting} {Point} {Classification} and {Spatial} {Visualization}},X,-,-,-,-
+{{VREye}: {Exploring} {Human} {Visual} {Acuity} {Test} {Using} {Virtual} {Reality}},X,-,-,-,-
+{Proposal of {Perception} {Method} of {Existence} of {Objects} in {3D} {Space} {Using} {Quasi}-electrostatic {Field}},X,-,-,-,-
+{{AR}-{Based} {Mobile} {Applications} for {Exposure} {Therapy}},X,-,-,-,-
+{Evolution of a {Laboratory} for {Design} of {Advanced} {Ship} {Bridges}},X,-,-,-,-
+{Holographic {Humans}},X,-,-,-,-
+{Early {Prototype} {Assessment} of a {New} {Virtual} {System} for {Training} {Procedural} {Skills} of {Automotive} {Service} {Operators}: {LARTE} {Tool}},X,-,-,-,-
+{Questing {Ruins}: {A} {Game} for a {Digital} {Inclusion}},X,-,-,-,-
+{Practical {Requirements} for {ITS} {Authoring} {Tools} from a {User} {Experience} {Perspective}},X,-,-,-,-
+{Design of a {Decision}-{Making} {Task} for a {Collaborative} {Brain}-{Computer} {Interface} {System} {Based} on {Emotiv} {EEG}},X,-,-,-,-
+{The {Pulse} {Breath} {Water} {System}: {Exploring} {Breathing} as an {Embodied} {Interaction} for {Enhancing} the {Affective} {Potential} of {Virtual} {Reality}},X,-,-,-,-
+{Dispelling the {Gorilla} {Arm} {Syndrome}: {The} {Viability} of {Prolonged} {Gesture} {Interactions}},X,-,-,-,-
+{Masking {Distracting} {Ambient} {Sound} in an {Adaptive} {VR}-{Application} to {Increase} {Presence}},X,-,-,-,-
+{Design of a {Computer}-{Assisted} {System} for {Teaching} {Attentional} {Skills} to {Toddlers} with {ASD}},X,-,-,-,-
+{Research {Initiative}: {Using} {Games} for {Better} {Career} {Choices}},X,-,-,-,-
+{{TACTILE} – {A} {Novel} {Mixed} {Reality} {System} for {Training} and {Social} {Interaction}},X,-,-,-,-
+{‘{Blind} {Faith}’. {An} {Experiment} with {Narrative} {Agency} in {Game} {Design}},X,-,-,-,-
+{From “{Cane}” to “{Sugar}”: {Empowering} {Taisugar} {History} of {Digital} {Design} with “{Interactive} {Visual} {Storytelling}”},X,-,-,-,-
+{Research on {Personalized} {Learning} {Pattern} in {Traditional} {Handicraft} {Using} {Augmented} {Reality}: {A} {Case} {Study} of {Cantonese} {Porcelain}},X,-,-,-,-
+{Immersion {Versus} {Embodiment}: {Embodied} {Cognition} for {Immersive} {Analytics} in {Mixed} {Reality} {Environments}},X,-,-,-,-
+{Game development software engineering process life cycle: a systematic review},X,-,-,-,-
+"{Reinforcement learning-based drone simulators: survey, practice, and challenge}",X,-,-,-,-
+{{3D} sound spatialization with game engines: the virtual acoustics performance of a game engine and a middleware for interactive audio design},-,-,-,-,-
+{An empirical study of {Q}\&{A} websites for game developers},X,-,-,-,-
+{Authoring {Effective} {Embedded} {Tutors}: {An} {Overview} of the {Extensible} {Problem} {Specific} {Tutor} ({xPST}) {System}},X,-,-,-,-
+{Potentials of game engines for wind power digital twin development: an investigation of the {Unreal} {Engine}},-,-,-,-,-
+{Adapting {Game} {Engines} to {Curved} {Spaces}},-,-,-,-,-
+{High-performance adaptive texture streaming and rendering of large {3D} cities},X,-,-,-,-
+{Creating explorable extended reality environments with semantic annotations},X,-,-,-,-
+{A survey on the pipeline evolution of facial capture and tracking for digital humans},X,-,-,-,-
+{Toward next generation mixed reality games: a research through design approach},X,-,-,-,-
+{Artificial intelligence moving serious gaming: {Presenting} reusable game {AI} components},-,-,-,-,-
+{Virtual reality content creation based on self-contained components in the e-learning domain: {Re}-using pattern-based vr content in different authoring toolkits},X,-,-,-,-
+{Visual aspect-oriented modeling of explorable extended reality environments},X,-,-,-,-
+{Can we benefit from game engines to develop digital twins for planning the deployment of photovoltaics?},-,-,-,-,X
+"{A survey of modeling, rendering and animation of clouds in computer graphics}",X,-,-,-,-
+{Cloud media video encoding: review and challenges},X,-,-,-,-
+{A systematic review of virtual {3D} reconstructions of {Cultural} {Heritage} in immersive {Virtual} {Reality}},X,-,-,-,-
+{Artificial intelligence in the creative industries: a review},X,-,-,-,-
+"{Generative deep learning for data generation in natural hazard analysis: motivations, advances, challenges, and opportunities}",X,-,-,-,-
+{{VR} {Designer}: enhancing fashion showcases through immersive virtual garment fitting},X,-,-,-,-
+{Technological {Advancements} in {Affective} {Gaming}: {A} {Historical} {Survey}},X,-,-,-,-
+{Presence and interaction in mixed reality environments},X,-,-,-,-
+{Knowledge-based approach to adaptive {XR} interface design for non-programmers},X,-,-,-,-
+{Prototyping {Tools} for {Game} {Writers}},X,-,-,-,-
+{Real-time fracturing in video games},X,-,-,-,-
+{Deep learning model based multimedia retrieval and its optimization in augmented reality applications},X,-,-,-,-
+{Towards {3D} {Scene} {Understanding} {Using} {Differentiable} {Rendering}},X,-,-,-,-
+{User attention and behaviour in virtual reality art encounter},X,-,-,-,-
+{Virtual {Observations}: a software tool for contextual observation and assessment of user’s actions in virtual reality},X,-,-,-,-
+{Personalised {Learning} through {Context}-{Based} {Adaptation} in the {Serious} {Games} with {Gating} {Mechanism}},X,-,-,-,-
+{{NCCollab}: collaborative behavior tree authoring in game development},X,-,-,-,-
+{Air {Learning}: a deep reinforcement learning gym for autonomous aerial robot visual navigation},X,-,-,-,-
+{A review of immersive virtual reality serious games to enhance learning and training},X,-,-,-,-
+{Scene {Walk}: a non-photorealistic viewing tool for first-person video},X,-,-,-,-
+{A {Review} and {Outlook} on {Predictive} {Cruise} {Control} of {Vehicles} and {Typical} {Applications} {Under} {Cloud} {Control} {System}},X,-,-,-,-
+{Behavlets: a method for practical player modelling using psychology-based player traits and domain specific features},X,-,-,-,-
+{A scoping review of {In}-the-loop paradigms in the energy sector focusing on software-in-the-loop},X,-,-,-,-
+{Temporally {Coherent} {General} {Dynamic} {Scene} {Reconstruction}},X,-,-,-,-
+{Comprehensive analysis of digital twins in smart cities: a 4200-paper bibliometric study},X,-,-,-,-
+"{A survey of modeling, rendering and animation of clouds in computer graphics}",X,-,-,X,-
+{Virtual reality content creation based on self-contained components in the e-learning domain: {Re}-using pattern-based vr content in different authoring toolkits},X,-,-,X,-
+"{Reinforcement learning-based drone simulators: survey, practice, and challenge}",X,-,-,X,-
+{{3D} sound spatialization with game engines: the virtual acoustics performance of a game engine and a middleware for interactive audio design},-,-,-,X,-
+{Can we benefit from game engines to develop digital twins for planning the deployment of photovoltaics?},-,-,-,X,X
+{A survey on the pipeline evolution of facial capture and tracking for digital humans},X,-,-,X,-
+{Game development software engineering process life cycle: a systematic review},X,-,-,X,-
+{High-performance adaptive texture streaming and rendering of large {3D} cities},X,-,-,X,-
+{An empirical study of {Q}\&{A} websites for game developers},X,-,-,X,-
+{Artificial intelligence in the creative industries: a review},X,-,-,X,-
+"{Generative deep learning for data generation in natural hazard analysis: motivations, advances, challenges, and opportunities}",X,-,-,X,-
+{Adapting {Game} {Engines} to {Curved} {Spaces}},-,-,-,X,-
+{Creating explorable extended reality environments with semantic annotations},X,-,-,X,-
+{Authoring {Effective} {Embedded} {Tutors}: {An} {Overview} of the {Extensible} {Problem} {Specific} {Tutor} ({xPST}) {System}},X,-,-,X,-
+{Potentials of game engines for wind power digital twin development: an investigation of the {Unreal} {Engine}},-,-,-,X,-
+{Visual aspect-oriented modeling of explorable extended reality environments},X,-,-,X,-
+{Toward next generation mixed reality games: a research through design approach},X,-,-,X,-
+{Artificial intelligence moving serious gaming: {Presenting} reusable game {AI} components},-,-,-,X,-
+{Cloud media video encoding: review and challenges},X,-,-,X,-
+{A systematic review of virtual {3D} reconstructions of {Cultural} {Heritage} in immersive {Virtual} {Reality}},X,-,-,X,-
+{Immersive virtual-reality computer-assembly serious game to enhance autonomous learning},X,-,-,-,-
+{{PhyDSLK}: a model-driven framework for generating exergames},X,-,-,-,-
+{Colour {Calibration} of a {Head} {Mounted} {Display} for {Colour} {Vision} {Research} {Using} {Virtual} {Reality}},X,-,-,-,-
+{{RGB}-{D} datasets using microsoft kinect or similar sensors: a survey},X,-,-,-,-
+{Three-dimensional modeled environments versus 360 degree panoramas for mobile virtual reality training},X,-,-,-,-
+{{RORSIM}: a warship collision avoidance {3D} simulation designed to complement existing {Junior} {Warfare} {Officer} training},X,-,-,-,-
+{A walk in the black-box: {3D} visualization of large neural networks in virtual reality},X,-,-,-,-
+{Scientific {Visualization} on the {Cloud}: the {NEANIAS} {Services} towards {EOSC} {Integration}},X,-,-,-,-
+{Designing and evaluation of a mixed reality system for crime scene investigation training: a hybrid approach},X,-,-,-,-
+{Design and evaluation of a collaborative {UML} modeling environment in virtual reality},X,-,-,-,-
+{A systematic review of wearable biosensor usage in immersive virtual reality experiences},X,-,-,-,-
+"{A survey of appearance-based approaches for human gait recognition: techniques, challenges, and future directions}",X,-,-,-,-
+{{ShadingNet}: {Image} {Intrinsics} by {Fine}-{Grained} {Shading} {Decomposition}},X,-,-,-,-
+{Text readability in augmented reality: a multivocal literature review},X,-,-,-,-
+{A {New} {Dataset} and a {Distractor}-{Aware} {Architecture} for {Transparent} {Object} {Tracking}},X,-,-,-,-
+{Sonics: develop intuition on biomechanical systems through interactive error controlled simulations},X,-,-,-,-
+{An immersive virtual reality learning environment with {CFD} simulations: {Unveiling} the {Virtual} {Garage} concept},X,-,-,-,-
+{Application of eye-tracking systems integrated into immersive virtual reality and possible transfer to the sports sector - {A} systematic review},X,-,-,-,-
+{Digital modes of interpretation of {Pictish} sculpture},X,-,-,-,-
+{Expectations and realities: {Examining} adolescent students’ game jam experiences},X,-,-,-,-
+{Immersive training of first responder squad leaders in untethered virtual reality},X,-,-,-,-
+{Towards {socialVR}: evaluating a novel technology for watching videos together},X,-,-,-,-
+{Machine learning and games},X,-,-,-,-
+{Bridging realities: training visuo-haptic object recognition models for robots using {3D} virtual simulations},X,-,-,-,-
+{Virtual reality for the assessment and rehabilitation of neglect: where are we now? {A} 6-year review update},X,-,-,-,-
+{Immersive virtual reality for complex skills training: content analysis of experienced challenges},X,-,-,-,-
+{A comparison of natural user interface and graphical user interface for narrative in {HMD}-based augmented reality},X,-,-,-,-
+{Designing and implementing interactive and realistic augmented reality experiences},X,-,-,-,-
+"{Current trends in digital twin development, maintenance, and operation: an interview study}",X,-,-,-,-
+{An {Edge} {Cloud} {Based} {Coordination} {Platform} for {Multi}-user {AR} {Applications}},X,-,-,-,-
+{A {Study} of {Using} {Synthetic} {Data} for {Effective} {Association} {Knowledge} {Learning}},X,-,-,-,-
+{Augmented reality in architecture and construction education: state of the field and opportunities},X,-,-,-,-
+{Immersive analysis of user motion in {VR} applications},X,-,-,-,-
+{Two is better than one: digital siblings to improve autonomous driving testing},X,-,-,-,-
+{Deep learning: survey of environmental and camera impacts on internet of things images},X,-,-,-,-
+{Prop-oriented world rotation: enabling passive haptic feedback by aligning real and virtual objects in virtual reality},X,-,-,-,-
+{{GPU} based real-time simulation of massive falling leaves},X,-,-,-,-
+{Digital {3D} models for medieval heritage: diachronic analysis and documentation of its architecture and paintings},X,-,-,-,-
+{Comprehensive review and classification of game analytics},X,-,-,-,-
+{Using a {NEAT} approach with curriculums for dynamic content generation in video games},X,-,-,-,-
+{What {Empirically} {Based} {Research} {Tells} {Us} {About} {Game} {Development}},X,-,-,-,-
+{A {Virtual} {Space} for {Children} to {Meet} and {Practice} {Chinese}},X,-,-,-,-
+{Evaluation of augmented reality technology for the design of an evacuation training game},X,-,-,-,-
+{Enabling personalized {VR} experiences: a framework for real-time adaptation and recommendations in {VR} environments},X,-,-,-,-
+{{SyDog}-{Video}: {A} {Synthetic} {Dog} {Video} {Dataset} for {Temporal} {Pose} {Estimation}},x,-,-,-,-
+{Elementium: design and pilot evaluation of a serious game for familiarizing players with basic chemistry},X,-,-,-,-
+{Exploring students’ perspectives on {Generative} {AI}-assisted academic writing},X,-,-,-,-
+{{ArchReco}: a software tool to assist software design based on context aware recommendations of design patterns},X,-,-,-,-
+{{ReLiShaft}: realistic real-time light shaft generation taking sky illumination into account},x,-,-,-,-
+{The geometry of the vergence-accommodation conflict in mixed reality systems},X,-,-,-,-
+{Simulating vision impairment in virtual reality: a comparison of visual task performance with real and simulated tunnel vision},X,-,-,-,-
+{Virtual reality and machine learning in the automatic photoparoxysmal response detection},X,-,-,-,-
+{Exploring different content creation and display methods for remote collaboration supported by {eXtended} reality: comparative analysis of distinct task scenarios},X,-,-,-,-
+{Smell and touch in the {Virtual} {Jumpcube}},X,-,-,-,-
+{The {Reasonable} {Effectiveness} of {Synthetic} {Visual} {Data}},X,-,-,-,-
+{Adoption of immersive-virtual reality as an intrinsically motivating learning tool in parasitology},X,-,-,-,-
+{A game prototype for understanding the safety issues of a lifeboat launch},X,-,-,-,-
+{My {Lovely} {Granny}’s {Farm}: {An} immersive virtual reality training system for children with autism spectrum disorder},X,-,-,-,-
+{Evaluation of {Road} {Safety} {Education} {Program} with {Virtual} {Reality} {Eye} {Tracking}},X,-,-,-,-
+"{Systematic review and meta-analysis of augmented reality in medicine, retail, and games}",X,-,-,-,-
+{Determinants of victory in {Esports} - {StarCraft} {II}},X,-,-,-,-
+"{Aspects of visual avatar appearance: self-representation, display type, and uncanny valley}",X,-,-,-,-
+{Embedded {3D} reconstruction of dynamic objects in real time for maritime situational awareness pictures},X,-,-,-,-
+"{Train here, drive there: {ROS} based end-to-end autonomous-driving pipeline validation in {CARLA} simulator using the {NHTSA} typology}",X,-,-,-,-
+{Adding {Communicative} and {Affective} {Strategies} to an {Embodied} {Conversational} {Agent} to {Enhance} {Second} {Language} {Learners}’ {Willingness} to {Communicate}},X,-,-,-,-
+{Comparison of gaze accuracy and precision in real-world and virtual reality},X,-,-,-,-
+{Cultivating empathy through narratives in virtual reality: a review},X,-,-,-,-
+{Enhancing music rhythmic perception and performance with a {VR} game},X,-,-,-,-
+"{Editorial for {EAIT} issue 7, 2023}",X,-,-,-,-
+{Real-{Time} {Multi}-person {Motion} {Capture} from {Multi}-view {Video} and {IMUs}},X,-,-,-,-
+"{Replicating outdoor environments using {VR} and ambisonics: a methodology for accurate audio-visual recording, processing and reproduction}",X,-,-,-,-
+{Design methodology for 360° immersive video applications: the case study of a cultural heritage virtual tour},X,-,-,-,-
+{Virtual reality environments for stress reduction and management: a scoping review},X,-,-,-,-
+{{CTSN}: {Predicting} cloth deformation for skeleton-based characters with a two-stream skinning network},X,-,-,-,-
+{{shARe}-{IT}: {Ad} hoc {Remote} {Troubleshooting} through {Augmented} {Reality}},X,-,-,-,-
+{Automatic object annotation in streamed and remotely explored large {3D} reconstructions},X,-,-,-,-
+{An augmented reality approach for communicating intangible and architectural heritage through digital characters and scale models},X,-,-,-,-
+{On the precision of third person perspective augmented reality for target designation tasks},X,-,-,-,-
+{Using visual feedback to improve hand movement accuracy in confined-occluded spaces in virtual reality},X,-,-,-,-
+{Genetic programming for feature model synthesis: a replication study},X,-,-,-,-
+{Evaluation of a virtual reality training tool for firefighters responding to transportation incidents with dangerous goods},X,-,-,-,-
+{Harmonize: a shared environment for extended immersive entertainment},X,-,-,-,-
+{Predictive digital twin for offshore wind farms},X,-,-,-,-
+{Exploring sensorimotor performance and user experience within a virtual reality golf putting simulator},X,-,-,-,-
+{Virtual reality for biochemistry education: the cellular factory},X,-,-,-,-
+{Development of {Immersive} {Virtual} {Reality} {Hospital} {Fire} {Management} and {Evacuation} {Training} {Program} for {Nursing} {Students} in {Hong} {Kong}},X,-,-,-,-
+"{Effect of immersive visualization technologies on cognitive load, motivation, usability, and embodiment}",X,-,-,-,-
+{Virtual reality’s effect on parameter optimisation for crowd-sourced procedural animation},X,-,-,-,-
+{A {VR}-based user study on the effects of vision impairments on recognition distances of escape-route signs in buildings},X,-,-,-,-
+{Virtual conference design: features and obstacles},X,-,-,-,-
+{Precomputed optimal one-hop motion transition for responsive character animation},X,-,-,-,-
+{Application of virtual reality for peritoneal dialysis exchange learning in patients with end-stage renal disease and cognitive impairment},X,-,-,-,-
+{Immersive virtual reality and passive haptic interfaces to improve procedural learning in a formal training course for first responders},X,-,-,-,-
+{Assessment of music performance anxiety in a virtual auditorium through the study of ambient lighting and audience distance},X,-,-,-,-
+{Usability evaluation of a virtual reality smartphone app for a living museum},X,-,-,-,-
+{Immersive machine learning for social attitude detection in virtual reality narrative games},X,-,-,-,-
+{Open data exploration in virtual reality: a comparative study of input technology},X,-,-,-,-
+{Exploring {Gender} {Differences} in {Computational} {Thinking} {Learning} in a {VR} {Classroom}: {Developing} {Machine} {Learning} {Models} {Using} {Eye}-{Tracking} {Data} and {Explaining} the {Models}},X,-,-,-,-
+{{BeHere}: a {VR}/{SAR} remote collaboration system based on virtual replicas sharing gesture and avatar in a procedural task},X,-,-,-,-
+{Investigating the effectiveness of immersive {VR} skill training and its link to physiological arousal},X,-,-,-,-
+{Immersive movies: the effect of point of view on narrative engagement},X,-,-,-,-
+{Virtual reality as a communication medium: a comparative study of forced compliance in virtual reality versus physical world},X,-,-,-,-
+{Verification of the possibility and effectiveness of experiential learning using {HMD}-based immersive {VR} technologies},X,-,-,-,-
+{Information {Theoretic} {Model} to {Simulate} {Agent}-{Signage} {Interaction} for {Wayfinding}},X,-,-,-,-
+{Why don’t we trace? {A} study on the barriers to software traceability in practice},X,-,-,-,-
+{{AdaPIP}: {Adaptive} picture-in-picture guidance for 360° film watching},X,-,-,-,-
+"{Editorial for {EAIT} issue 4, 2020}",X,-,-,-,-
+{Materialising contexts: virtual soundscapes for real-world exploration},X,-,-,-,-
+{Learning goal hierarchies from structured observations and expert annotations},X,-,-,-,-
+{A framework for virtual learning in industrial engineering education: development of a reconfigurable virtual learning factory application},X,-,-,-,-
+{Usability of visualizing position and orientation deviations for manual precise manipulation of objects in augmented reality},X,-,-,-,-
+{Promoting eco-driving behavior through multisensory stimulation: a preliminary study on the use of visual and haptic feedback in a virtual reality driving simulator},X,-,-,-,-
+{Domain randomization for neural network classification},X,-,-,-,-
+{Attention computing for enhanced visuomotor skill performance: {Testing} the effectiveness of gaze-adaptive cues in virtual reality golf putting},X,-,-,-,-
+{Mixed reality in surgical telepresence: a novel extended mean value cloning with automatic trimap generation and accurate alpha matting for visualization},X,-,-,-,-
+{Summary of {Energy} {Informatics}.{Academy} {Conference} 2022},X,-,-,-,-
+{Using augmented reality for supporting information exchange in teams from the security domain},X,-,-,-,-
+{An agent-based model and computational framework for counter-terrorism and public safety based on swarm intelligencea},X,-,-,-,-
+{An olfactory display for virtual reality glasses},X,-,-,-,-
+{Architectural design game: {A} serious game approach to promote teaching and learning using multimodal interfaces},X,-,-,-,-
+{Learning to {Overcome} {Cultural} {Conflict} through {Engaging} with {Intelligent} {Agents} in {Synthetic} {Cultures}},X,-,-,-,-
+{Implementation of a hepatitis-themed virtual escape room in pharmacy education: {A} pilot study},X,-,-,-,-
+{Leveraging {Transmedia} storytelling to engage tourists in the understanding of the destination’s local heritage},X,-,-,-,-
+"{Behavioral intention, perception and user assessment in an immersive virtual reality environment with {CFD} simulations}",X,-,-,-,-
+{Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality},X,-,-,-,-
+{System {Thinking} in {Gamification}},X,-,-,-,-
+{Internet-based tailored virtual human health intervention to promote colorectal cancer screening: design guidelines from two user studies},X,-,-,-,-
+{Improved perception of ceramic molds through augmented reality},X,-,-,-,-
+{Spatially resolved transcriptomics in immersive environments},X,-,-,-,-
+"{Exploring structural relations among computer self-efficacy, perceived immersion, and intention to use virtual reality training systems}",X,-,-,-,-
+{Exploring the future building: representational effects on projecting oneself into the future office space},X,-,-,-,-
+{Understanding freehand gestures: a study of freehand gestural interaction for immersive {VR} shopping applications},X,-,-,-,-
+{What can science fiction tell us about the future of artificial intelligence policy?},X,-,-,-,-
+{Assessing the learning and transfer of gaze behaviours in immersive virtual reality},X,-,-,-,-
+{Assessing the adoption of the {Yavuz} {Battleship} application in the mixed reality environment using the technology acceptance model},X,-,-,-,-
+{Back to the {Control} {Room}: {Managing} {Artistic} {Work}},X,-,-,-,-
+{Envisioning the future of virtual production in filmmaking: {A} remote co-design study},X,-,-,-,-
+{An integration of enhanced social force and crowd control models for high-density crowd simulation},X,-,-,-,-
+{Holograms for seamless integration of remote students in the classroom},X,-,-,-,-
+{{ToTCompute}: {A} {Novel} {EEG}-{Based} {TimeOnTask} {Threshold} {Computation} {Mechanism} for {Engagement} {Modelling} and {Monitoring}},X,-,-,-,-
+{Evaluating an augmented reality interface for sailing navigation: a comparative study with a immersive virtual reality simulator},X,-,-,-,-
+{Game-based learning in metaverse: {Virtual} chemistry classroom for chemical bonding for remote education},X,-,-,-,-
+{Intelligent {IoT} systems for civil infrastructure health monitoring: a research roadmap},X,-,-,-,-
+{Recognizing shopper demographics from behavioral responses in a virtual reality store},X,-,-,-,-
+{A {Space} {Filling} {Algorithm} for {Generating} {Procedural} {Geometry} and {Texture}},X,-,-,-,-
+{Audio description in video games? {Persons} with visual disabilities weigh in},X,-,-,-,-
+{‘{Worksome} but {Rewarding}’ –{Stakeholder} {Perceptions} on {Value} in {Collaborative} {Design} {Work}},X,-,-,-,-
+{Arousing a wide range of emotions within educational virtual reality simulation about major depressive disorder affects knowledge retention},X,-,-,-,-
+{Multimedia augmented reality game for learning math},X,-,-,-,-
+{A case study of a virtual reality-based drink driving educational tool},X,-,-,-,-
+{Exploring the viability of augmented reality game- enhanced education in {WhatsApp} flipped and blended classes versus the face-to-face classes},X,-,-,-,-
+{{OmniGlasses}: an optical aid for stereo vision {CNNs} to enable omnidirectional image processing},X,-,-,-,-
+{Long short-term memory prediction of user’s locomotion in virtual reality},X,-,-,-,-
+{Empowering {Users} to {Game} {Dovelopment} {Platform} for {Visually} {Impaired} {Student}},X,-,-,-,-
+{Impacts of augmented reality on foreign language teaching: a case study of {Persian} language},X,-,-,-,-
+{Examining the feasibility of immersive virtual reality to measure upper limb motor performance in typically developing children and adolescents},X,-,-,-,-
+{Physioland: a motivational complement of physical therapy for patients with neurological diseases},X,-,-,-,-
+{Using immersive virtual reality to remotely examine performance differences between dominant and non-dominant hands},X,-,-,-,-
+{A serious-gamification blueprint towards a normalized attention},X,-,-,-,-
+{A scenario generation pipeline for autonomous vehicle simulators},X,-,-,-,-
+{Participatory design and evaluation of virtual reality physical rehabilitation for people living with dementia},X,-,-,-,-
+{Special {Issue} on {Advances} in {Human}-{Computer} {Interaction}},X,-,-,-,-
+{Testing driver warning systems for off-road industrial vehicles using a cyber-physical simulator},X,-,-,-,-
+{{VR} interventions aimed to induce empathy: a scoping review},X,-,-,-,-
+{Is social presence (alone) a general predictor for good remote collaboration? comparing video and augmented reality guidance in maintenance procedures},X,-,-,-,-
+{Assessment of prospective memory after stroke utilizing virtual reality},X,-,-,-,-
+{Back to reality: transition techniques from short {HMD}-based virtual experiences to the physical world},X,-,-,-,-
+"{Augmented reality flavor: cross-modal mapping across gustation, olfaction, and vision}",X,-,-,-,-
+{Deep learning and multivariate time series for cheat detection in video games},X,-,-,-,-
+{Evaluating {Player} {Strategies} in the {Design} of a {Hot} {Hand} {Game}},X,-,-,-,-
+{Benefits of immersive collaborative learning in {CAVE}-based virtual reality},X,-,-,-,-
+{Improving real-world skills in people with intellectual disabilities: an immersive virtual reality intervention},X,-,-,-,-
+{Redirected walking in virtual reality with auditory step feedback},X,-,-,-,-
+{Definition of guidelines for virtual reality application design based on visual attention},X,-,-,-,-
+{Creating a treadmill running video game with smartwatch interaction},X,-,-,-,-
+{Exploring gestural input for engineering surveys of real-life structures in virtual reality using photogrammetric {3D} models},X,-,-,-,-
+{Consensus decision-making in artificial swarms via entropy-based local negotiation and preference updating},X,-,-,-,-
+{Postural instability-induced compensative movements in virtual reality},X,-,-,-,-
+{Model vs system level testing of autonomous driving systems: a replication and extension study},X,-,-,-,-
+"{Memory for a virtual reality experience in children and adults according to image quality, emotion, and sense of presence}",X,-,-,-,-
+"{Editorial for {EAIT} issue 1, 2020}",X,-,-,-,-
+"{Sustainable, empowering and emotional interactive multimedia}",X,-,-,-,-
+{Developing a virtual reality environment for educational and therapeutic application to investigate psychological reactivity to bullying},X,-,-,-,-
+"{Preface the visual computer (vol 38, issue 12)}",X,-,-,-,-
+{Evaluating the viewer experience of interactive virtual reality movies},X,-,-,-,-
+{Virtual reality environment for exposure therapy in obsessive–compulsive disorder: a validation study},X,-,-,-,-
+{Assisted navigation for digital architectural walkthroughs in {Natural} {User} {Interface}-based installations},X,-,-,-,-
+{Investigating the influence of agent modality and expression on agent-mediated fairness behaviours},X,-,-,-,-
+{Guest {Editorial}: {Multimedia} for {Advanced} {Human}-{Computer} {Interaction}},X,-,-,-,-
+{Designing and {Creating} a {Game} {Installation}},X,-,-,-,-
+{Visuohaptic augmented feedback for enhancing motor skills acquisition},X,-,-,-,-
+{Assessing the perceptual equivalence of a firefighting training exercise across virtual and real environments},X,-,-,-,-
+{Real-walk modelling: deep learning model for user mobility in virtual reality},X,-,-,-,-
+{Aesthetic judgments of {3D} arts in virtual reality and online settings},X,-,-,-,-
+{Special {Issue} on {Generating} {Realistic} {Visual} {Data} of {Human} {Behavior}},X,-,-,-,-
+{Co-design of avatars to embody auditory hallucinations of patients with schizophrenia},X,-,-,-,-
+{Combining modeling and gaming for predictive analytics},X,-,-,-,-
+{The value of collision feedback in robotic surgical skills training},X,-,-,-,-
+{Immersive virtual reality for upper limb rehabilitation: comparing hand and controller interaction},X,-,-,-,-
+{Exploring the influence of a user-specific explainable virtual advisor on health behaviour change intentions},X,-,-,-,-
+{Dynamical model for gamification of learning ({DMGL})},X,-,-,-,-
+{Overground walking while using a virtual reality head mounted display increases variability in trunk kinematics and reduces dynamic balance in young adults},X,-,-,-,-
+{Non-native speaker perception of {Intelligent} {Virtual} {Agents} in two languages: the impact of amount and type of grammatical mistakes},X,-,-,-,-
+{Augmented grocery shopping: fostering healthier food purchases through {AR}},X,-,-,-,-
+{A fuzzy logic approach to reliable real-time recognition of facial emotions},X,-,-,-,-
+{Special issue on exploring new {Natural} {User} {Experiences}},X,-,-,-,-
+{Move your virtual body: differences and similarities in brain activation patterns during hand movements in real world and virtual reality},X,-,-,-,-
+{Design and implementation of a same-user identification system in invoked reality space},X,-,-,-,-
+"{Effects of electrical brain stimulation on brain indices and presence experience in immersive, interactive virtual reality}",X,-,-,-,-
+{Investigation of spatial ability test completion times in virtual reality using a desktop display and the {Gear} {VR}},X,-,-,-,-
